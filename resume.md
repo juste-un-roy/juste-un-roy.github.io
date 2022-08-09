@@ -5,6 +5,7 @@ menutitle: CV
 ---
 ## Justin Roy
 
+`2022 - `
 Bibliothécaire-étudiant à l'École de technologie supérieure (ETS)
 
 ## Éducation
@@ -17,15 +18,32 @@ Maîtrise en sciences de l'information
 __Université Laval__
 Baccalauréat en philosophie 
 
+## Projets effectués avec l'ETS
+
+__Référence__
+
+__Bibliométrie__ Rédaction d'un libguide sur la bibliométrie ; analyses bibliométriques.
+
+__Fouille de données textuelles__ Préparation d'un guide sur la fouille de données textuelles ; préparation d'ateliers sur la fouille de textes.
+
+## Expérience
+
+`2022`
+__Auxiliaire de recherche__, Université de Montréal
+
+- Recherche d'information
+- Gestion de données
+
+`Current`
+__Commis de bibliothèque__, Institut Canadien de Québec (ICQ)
+
+- Aide aux lecteurs
+
 ## Distinctions
 
 `2017`
 Bourse d'excellence à l'admission de l'Université Laval
 Bourse d'excellence de la Fondation du Cégep de Sainte-Foy
-
-## Publications
-
-<!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
 ### Publications
 
@@ -36,24 +54,6 @@ Article Title, Journal Title
 
 `1994`
 Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
-
-
-## Occupation
-
-`Current`
-__Bibliothécaire-étudiant__, École de Technologie supérieure
-
-- Référence
-- Bibliométrie et communications savantes
-- Fouille de données textuelles
-
-`2022`
-__Auxiliaire de recherche__, Université de Montréal
-
-- Recherche d'information
-- Gestion de données
-
-
 
 <!-- ### Footer
 
