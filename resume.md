@@ -4,6 +4,8 @@ menuorder: 2
 menutitle: CV
 ---
 
+## Justin Roy
+
 `Présent`
 __Bibliothécaire-étudiant__, École de technologie supérieure (ETS)
 
@@ -67,7 +69,7 @@ __Logiciels de gestion bibliographique__: Endnote, Zotero.
 
 __Programmation__: Git, GitHub, Visual Code Studio (CSS, HTML, Python).
 
-__Référence__: LibbApps.
+__Autres__: LibbApps, OpenRefine.
 
 ## Distinctions
 
