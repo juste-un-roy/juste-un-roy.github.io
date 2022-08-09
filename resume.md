@@ -22,7 +22,7 @@ Baccalauréat en philosophie
 ## Projets effectués avec l'ETS
 
 __Bibliométrie__
-- Mise à jour et modification d'un libguide sur la bibliométrie pour Judith Boissonneault. La mise à jour du guide a demandé de faire une revue de la littérature récente sur la bibliométrie et une étude comparée de libguides produit par d'autres bibliothèques universitaires.
+- Mise à jour et modification d'un libguide sur la bibliométrie, pour Judith Boissonneault. La mise à jour du guide a demandé de faire une revue de la littérature récente sur la bibliométrie et une étude comparée de libguides produit par d'autres bibliothèques universitaires.
 - Étude comparée sur la recension des articles de synthèse en provenance de l'ETS par Scopus et Web of Science.
 
 __Fouille de données textuelles__
