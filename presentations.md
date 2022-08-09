@@ -1,6 +1,6 @@
 ---
 layout: presentation-post-index
-menutitle: Presentations
+menutitle: Présentations
 menuorder: 2
 excerpt: "Recent Presentations"
 ---
