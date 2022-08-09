@@ -9,7 +9,7 @@ Je suis bibliothécaire-étudiant à l'École de technologie supérieure (ETS). 
 
 ## Intérêts:
 
-- Humanités numériques
+- Sciences humaines numériques
 - Bibliométrie et communication savante
 - Fouille de données textuelles
 - Bibliothèques universitaires et recherche en universités
