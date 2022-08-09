@@ -31,8 +31,8 @@ __Fouille de données textuelles__: Préparation d'un guide sur la fouille de do
 `2022`
 __Auxiliaire de recherche__, Université de Montréal
 
-- Recherche d'information
-- Gestion de données
+- Recherche documentaire, élaboration d'une stratégie de recension des écrits et rédaction pour Marie Thériault, professeure agrégé à la Faculté des sciences de l'éducation de l'Université de Montréal, sur l'état de la langue française dans le milieu universitaire québécois.
+- Gestion d'une bibliothèque virtuelle contenant plus d'une centaine de documents, incluant la création de métadonnées à des fins de classification et de description.   
 
 `2020-2021`
 __Commis de bibliothèque__, Institut Canadien de Québec (ICQ)
