@@ -3,19 +3,19 @@ layout: resume
 menuorder: 3
 menutitle: Resume
 ---
-## Currently
+## Justin Roy
 
-Current Position Description
+Bibliothécaire-étudiant à l'École de technologie supérieure (ETS)
 
-## Education
+## Éducation
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2021 - `
+__Université de Montréal__
+Maîtrise en sciences de l'information
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2017 - 2020`
+__Université Laval__
+Baccalauréat en philosophie 
 
 ## Awards
 
