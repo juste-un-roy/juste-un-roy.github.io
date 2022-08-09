@@ -1,6 +1,6 @@
 ---
 layout: post-index
-title: All Blog Posts
-menutitle: Blog
+title: Toutes les publications
+menutitle: Blogue
 menuorder: 4
 ---
