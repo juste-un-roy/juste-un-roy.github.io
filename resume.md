@@ -39,6 +39,20 @@ __Commis de bibliothèque__, Institut Canadien de Québec (ICQ)
 
 - Aide aux lecteurs
 
+## Connaissances technologiques ##
+
+__Bibliométrie__: SciVal, Scopus, Web of Science.
+
+__Bureautique__: Excel, Teams, Word.
+
+__Fouille de données textuelles__: Gephi, Voyant Tools.
+
+__Logiciels de gestion bibliographique__: Endnote, Zotero.
+
+__Programmation__: Git, GitHub, Visual Code Studio (CSS, HTML, Python).
+
+__Autre__: LibbApps
+
 ## Distinctions
 
 `2017`
