@@ -5,7 +5,7 @@ menutitle: CV
 ---
 ## Justin Roy
 
-`2022 - `
+`En cours`
 __Bibliothécaire-étudiant__, École de technologie supérieure (ETS)
 
 ## Éducation
