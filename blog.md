@@ -1,6 +1,6 @@
 ---
 layout: post-index
-title: Toutes les publications
+title: Tous les billets
 menutitle: Blogue
 menuorder: 3
 ---
