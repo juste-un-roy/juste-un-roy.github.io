@@ -1,15 +1,15 @@
 # Site wide configuration
 
 title: Justin Roy
-locale: en_US
+locale: fr_CA
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Justin Roy
   avatar: bio-photo.jpg
-  bio: Bibliothécaire-étudiant à l'École de Technologie supérieure et étudiant à l'École de bibliothéconomie et des sciences de l'information (EBSI) de l'Université de Montréal
-  email: #emailaddress
+  bio: étudiant à l'École de bibliothéconomie et des sciences de l'information de l'Université de Montréal
+  email: roy.justin@pm.me
   # Do not include the @ symbol in your Twitter username
   twitter: #username
   linkedin: #username
