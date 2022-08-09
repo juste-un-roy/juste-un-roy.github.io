@@ -3,7 +3,6 @@ layout: resume
 menuorder: 3
 menutitle: CV
 ---
-## Justin Roy
 
 `Présent`
 __Bibliothécaire-étudiant__, École de technologie supérieure (ETS)
