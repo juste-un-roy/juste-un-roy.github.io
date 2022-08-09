@@ -45,15 +45,15 @@ __Commis de bibliothèque__, Institut Canadien de Québec (ICQ)
 Bourse d'excellence à l'admission de l'Université Laval
 Bourse d'excellence de la Fondation du Cégep de Sainte-Foy
 
-### Publications
+## Publications
 
 `1994`
 Article Title, Journal Title
 
 ## Présentations
 
-`1994`
-Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
+`2023`
+__L'état de la langue française dans le milieu universitaire québécois__, Bibliothèque et Archives nationales du Québec (à venir)
 
 <!-- ### Footer
 
