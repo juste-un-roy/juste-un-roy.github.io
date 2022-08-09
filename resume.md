@@ -1,7 +1,7 @@
 ---
 layout: resume
 menuorder: 3
-menutitle: Resume
+menutitle: CV
 ---
 ## Justin Roy
 
@@ -17,33 +17,22 @@ Maîtrise en sciences de l'information
 __Université Laval__
 Baccalauréat en philosophie 
 
-## Awards
+## Distinctions
 
-`2012`
-Name of Award, Organization 
+`2017`
+Bourse d'excellence à l'admission de l'Université Laval
+Bourse d'excellence de la Fondation du Cégep de Sainte-Foy
 
 ## Publications
 
 <!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journals
+### Publications
 
 `1994`
 Article Title, Journal Title
 
-`1994`
-Article Title, Journal Title
-
-### Books
-
-`1994`
-Book Title, Journal Title
-
-`1994`
-Book Title, Journal Title
-
-
-## Presentations
+## Présentations
 
 `1994`
 Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
@@ -52,16 +41,17 @@ Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Li
 ## Occupation
 
 `Current`
-__Current Job Title__, Current Employer 
+__Bibliothécaire-étudiant__, École de Technologie supérieure
 
-- Task
-- Task
+- Référence
+- Bibliométrie et communications savantes
+- Fouille de données textuelles
 
-`1994-1996`
-__Current Job Title__, Current Employer 
+`2022`
+__Auxiliaire de recherche__, Université de Montréal
 
-- Task
-- Task
+- Recherche d'information
+- Gestion de données
 
 
 
