@@ -22,7 +22,7 @@ Baccalauréat en philosophie
 
 `Présent`
 __Bibliothécaire-étudiant__, ETS
-- Correction, mise à jour et modification du guide de l'ETS sur la bibliométrie en utilisant _Libguide_. La mise à jour du guide a demandé de faire une revue de la littérature systématique sur la bibliométrie et de faire une étude comparée des guides produits par d'autres bibliothèques universitaires.
+- Correction, mise à jour et modification du guide de l'ETS sur la bibliométrie en utilisant _Libguide_. Ce travail a demandé de faire une revue de la littérature systématique sur la bibliométrie et de faire une étude comparée des guides produits par d'autres bibliothèques universitaires.
 - Réalisation d'une étude bibliométrique portant sur la recension, par les moteurs _Scopus_ et _Web of Science_, des articles de synthèse produits à l'ETS. Comparaison des résultats obtenus sur _Scopus_ et _Web of Science_ et classification des résultats par type de synthèse.
 - Référence en présentiel et en ligne, en utilisant _LibAnswer_, _LibInsight_ et _LibCal_.
 - Création d'un guide sur la fouille de données textuelles et d'une grille comparative de logiciels de fouilles de texte, pour un étudiant au postdoctorat. Ce travail a demandé de faire une revue de la littérature récente sur la fouille de données textuelles, d'apprendre les logiciels _Gephi_ et _Voyant Tools_ et de recenser des logiciels adaptés aux besoins et aux capacités de l'étudiant.
