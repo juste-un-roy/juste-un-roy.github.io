@@ -56,7 +56,7 @@ __Stagiaire en enseignement collégial__, Cégep de Sainte-Foy
 ## Formation hors cursus ##
 
 `2022`
-__Programme BiblioTECH__: Excel, Git et GitHub, OpenRefine, Visual Code Studio (Python).
+__Programme BiblioTECH__: Excel, Git et GitHub, OpenRefine, Python.
 
 ## Distinctions
 
