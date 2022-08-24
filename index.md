@@ -1,16 +1,15 @@
 ---
 layout: page
 excerpt: "About Me..."
-menutitle: Home
+menutitle: Accueil
 menuorder: 1
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Je suis bibliothécaire-étudiant à l'École de technologie supérieure (ETS). Je possède des expériences en bibliothèques universitaires et en bibliothèques publiques, une aisance avec le public et un grand intérêt pour l'implantation des technologies de l'information dans le cadre de la recherche universitaire.
 
-## Current Interests and Projects:
+## Intérêts:
 
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- DLorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
+- Sciences humaines numériques
+- Bibliométrie et communication savante
+- Fouille de données textuelles
+- Bibliothèques universitaires et recherche en universités
