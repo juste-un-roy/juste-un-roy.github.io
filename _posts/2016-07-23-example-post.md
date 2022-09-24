@@ -12,7 +12,7 @@ En été 2022, un doctorant a demandé l'équipe de l'École de Technologie Sup�
 
 Très vite, je me suis rendu compte que l'exercice nécessiterait de recourir à une intelligence artificielle : les notices de près de __900 articles__ demandaient à être scrutées! Procéder manuellement aurait pris des semaines, empiétant sur du temps pouvant être mis à disposition d'autres projets. J'ai par conséquent demandé à mes superviseurs qu'on installe _Jupyter Notebook_ sur mon poste de travail. Après quoi une partie de plaisir pouvait débuter.
 
-Pour répondre à la demande du doctorant, j'ai programmé un algorithme capable de procéder à la classification automatique des articles par type de synthèse. La classification est une tâche courante de la fouille de textes (_text analytics_), ce domaine qui consiste à extraire des motifs dans des textes à l'aide d'algorithmes d'intelligence artificielle. Ma formation en cette matière à l'EBSI pouvait ainsi m'apporter un coup de main.
+Pour répondre à la demande du doctorant, j'ai programmé un algorithme capable de procéder à la classification automatique des articles par type de synthèse. La classification est une tâche courante de la fouille de textes (_text analytics_), ce domaine qui consiste à extraire des motifs dans des textes à l'aide d'algorithmes d'intelligence artificielle. Ma formation en cette matière à l'EBSI pouvait ainsi m'aider à remplir mon mandat.
 
 ## Méthodologie
 
