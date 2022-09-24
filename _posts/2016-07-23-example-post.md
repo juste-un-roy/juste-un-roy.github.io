@@ -1,20 +1,23 @@
 ---
 layout: post
-title: What is This?
-excerpt: "What is a static website generator, and why should I care?"
-modified: 2/29/2016, 9:00:24
-tags: [intro, beginner, jekyll, tutorial]
+title: L'IA à la rescousse d'un doctorant... et d'un bibliothécaire occupé
+excerpt: "La classification automatique de documents rendue possible grâce à un algorithme d'intelligence artificielle."
+modified: 24/09/2022, 17:37
+tags: [fouille de textes, bibliométrie, ÉTS]
 comments: true
 category: blog
 ---
 
-This is a website template created with Jekyll that is designed to be hosted on Github pages. Jekyll is a static website generator, and Github pages provides a free and easy way to host websites created using Jekyll.
+En été 2022, un doctorant a demandé l'équipe de l'École de Technologie Supérieure (ÉTS) de l'assister dans une tâche bien particulière : repérer tous les articles de synthèse (_review_) écrits par des chercheurs de l'École, puis les classer par type de synthèse. En qualité d'étudiant intéressé par la bibliométrie, c'est à moi qu'est incombé ce dossier.
 
-## What is a static website generator?
-A static website generator is a program that allows for a website to be created using alternatives to HTML. In this case we are using a simple text markup language called Markdown to create and format the content on the pages. Jekyll can interpret this and convert it to html that can be rendered in any browser.
+Très vite, je me suis rendu compte que l'exercice nécessiterait de recourir à une intelligence artificielle : les notices de près de __900 articles__ demandaient à être scrutées! Procéder manuellement aurait pris des semaines, empiété sur du temps pouvant être mis à disposition d'autres projets. J'ai, par conséquent, demandé à mes superviseurs qu'on installe Jupyter Notebook sur mon poste de travail. Après quoi une partie de plaisir pouvait débuter.
 
-## Why should I use a static website?
-A static website, simply put, is easier to manage than just about any other option out there for a simple website. Since it does not rely on any additional web application, it can be hosted on any webhosting server. It does not require regular updates like many dynamic websites such as WordPress or Drupal require. Everything that the website needs to work is contained within one directory, making it incredibly easy to move.
+Pour répondre à la demande du doctorant, j'ai programmé un algorithme capable de procéder à la classification automatique des articles par type de synthèse. La classification est une tâche courante de la fouille de textes (_text analytics_), ce domaine qui consiste à extraire des motifs dans des textes à l'aide d'algorithmes d'intelligence artificielle. Ma formation en cette matière à l'EBSI a par conséquent pu m'être d'une grande utilité.
 
-## How is this template different?
-This template has been optimized for ease of use. In the next set of instructions you will see that there are less than five files that you need to edit in order to customize the look of the website.
+## Méthodologie
+
+
+## Conclusions
+
+## Corpus
+Le corpus soumis à une fouille de données textuelles 
