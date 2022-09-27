@@ -22,16 +22,17 @@ Université Laval
 
 `Présent`
 __Bibliothécaire-étudiant__, École de technologie supérieure
-- Réalisation d'une étude bibliométrique portant sur la recension, par les bases de données _Scopus_ et _Web of Science_, des articles de synthèse produits à l'ETS. [Classification automatique des résultats](https://juste-un-roy.github.io/blog/FT-ETS/) par type de synthèse à l'aide d'un algorithme d'intelligence artificielle.
-- Création d'un guide sur la fouille de données textuelles et d'une grille comparative de logiciels de fouilles de textes, pour un étudiant au postdoctorat. Ce travail a demandé de faire une revue de la littérature récente sur la fouille de textes et de recenser des logiciels adaptés aux besoins et aux capacités de l'étudiant.
-- Conception, rédaction et mise en page du guide de l'ETS sur la collection « Objectif féminin pluriel » avec _Libguide_.
-- Correction, mise à jour et modification du guide de l'ETS sur la bibliométrie avec _Libguide_. Ce travail a demandé de faire une revue de la littérature systématique sur la bibliométrie et de faire une étude comparée des guides produits par d'autres bibliothèques universitaires.
-- Référence en présentiel et en ligne avec _LibAnswer_ et _LibInsight_.
+- Réalisation d'une étude bibliométrique portant sur les articles de synthèse produits à l'ÉTS et rencensés par les bases de données _Scopus_ et _Web of Science_. [Classification automatique des documents](https://juste-un-roy.github.io/blog/FT-ETS/) par type de synthèse à l'aide d'un algorithme d'intelligence artificielle.
+- Création d'un guide sur la fouille de textes et d'une grille comparative de logiciels, pour un étudiant au postdoctorat. Ce travail a demandé de faire une revue de la littérature récente sur la fouille de textes et d'évaluer différents logiciels en fonction des besoins et des capacités de l'étudiant.
+- Formation à la maîtrise de l'information, pour des étudiants en première année du baccalauréat.
+- Conception, rédaction et mise en page du guide de lecture féministe de l'ÉTS, « Objectif féminin pluriel », avec _Libguide_.
+- Correction, mise à jour et modification du guide de l'ÉTS sur la bibliométrie, avec _Libguide_. Ce travail a demandé de faire une revue de la littérature systématique sur la bibliométrie et de faire une étude comparée des guides produits par d'autres bibliothèques universitaires.
+- Référence, en présentiel et en ligne, avec _LibAnswer_ et _LibInsight_.
 
 `2022`
 __Auxiliaire de recherche__, Université de Montréal
 
-- Recherche documentaire, élaboration d'une stratégie de recension des écrits et rédaction pour Marie Thériault, professeure agrégé à la Faculté des sciences de l'éducation de l'Université de Montréal, sur l'état de la langue française dans le milieu universitaire québécois.
+- Recherche documentaire et élaboration d'une stratégie de recension des écrits pour Marie Thériault, professeure agrégé à la Faculté des sciences de l'éducation de l'Université de Montréal, sur l'état de la langue française dans le milieu scientifique québécois.
 - Gestion d'une bibliothèque virtuelle contenant plus d'une centaine de documents, incluant la création de métadonnées à des fins de classification et de description. 
 
 `2021`
@@ -39,8 +40,7 @@ __Adjoint juridique__, Alinéa Notaires
 
 - Traitement documentaire juridique, traitement de texte et rédaction pour Mes Caroline Reilly et Caroline Allard, notaires.
 - Structuration d'information et création de fiche-clients personnalisables.
-- Rédaction de trois procéduriers pour les adjoints juridique : création de copies-conformes, recherches testamentaires et complétion de fiches-clients.
-- Création d'un plan de classification et d'un calendrier de conservation pour faciliter la gestion des archives semi-actives.
+- Rédaction de trois procéduriers pour les adjoints juridiques : création de copies-conformes, recherche testamentaire et complétion de fiches-clients.
 
 `2020-2021`
 __Commis de bibliothèque__, Institut Canadien de Québec (ICQ)
