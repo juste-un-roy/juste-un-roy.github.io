@@ -72,7 +72,6 @@ __Programme BiblioTECH__
 
 `2022`
 __Bourse de la Faculté des arts et des sciences de l'Université de Montréal__
-
 Pour la participation au projet _Minwashin_, 5,000$ CDN.
 
 `2017`
