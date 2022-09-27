@@ -4,6 +4,8 @@ menuorder: 2
 menutitle: CV
 ---
 
+## Justin Roy
+
 Bibliothécaire-étudiant à l'École de technologie supérieure (ETS)
 
 ## Éducation
