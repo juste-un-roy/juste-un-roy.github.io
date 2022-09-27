@@ -6,22 +6,22 @@ menutitle: CV
 
 ## Justin Roy
 
-Bibliothécaire-étudiant à l'École de technologie supérieure (ETS)
+Bibliothécaire-étudiant à l'École de technologie supérieure
 
 ## Éducation
 
 `2021 - `
-__Université de Montréal__,
-Maîtrise en sciences de l'information (MSI)
+__Maîtrise en sciences de l'information__,
+Université de Montréal
 
 `2017 - 2020`
-__Université Laval__,
-Baccalauréat en philosophie 
+__Baccalauréat en philosophie__,
+Université Laval 
 
 ## Expériences professionnelles
 
 `Présent`
-__Bibliothécaire-étudiant__, ETS
+__Bibliothécaire-étudiant__, École de technologie supérieure
 - Réalisation d'une étude bibliométrique portant sur la recension, par les moteurs _Scopus_ et _Web of Science_, des articles de synthèse produits à l'ETS. Comparaison et classification automatique des résultats à l'aide d'un algorithme que j'ai programmé en _Python_.
 - Création d'un guide sur la fouille de données textuelles et d'une grille comparative de logiciels de fouilles de textes, pour un étudiant au postdoctorat. Ce travail a demandé de faire une revue de la littérature récente sur la fouille de textes et de recenser des logiciels adaptés aux besoins et aux capacités de l'étudiant.
 - Conception, rédaction et mise en page du guide de l'ETS sur la collection « Objectif féminin pluriel » avec _Libguide_.
