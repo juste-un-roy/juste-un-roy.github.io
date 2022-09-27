@@ -71,8 +71,7 @@ __Programme BiblioTECH__
 ## Distinctions
 
 `2022`
-__Bourse de la Faculté des arts et des sciences de l'Université de Montréal__
-Pour la participation au projet _Minwashin_, 5,000$ CDN.
+__Bourse de la Faculté des arts et des sciences de l'Université de Montréal__, Pour la participation au projet _Minwashin_, 5,000$ CDN.
 
 `2017`
 __Bourse d'excellence à l'admission de l'Université Laval__
