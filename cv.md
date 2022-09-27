@@ -4,8 +4,6 @@ menuorder: 2
 menutitle: CV
 ---
 
-## Justin Roy
-
 Bibliothécaire-étudiant à l'École de technologie supérieure (ETS)
 
 ## Éducation
@@ -54,12 +52,25 @@ __Stagiaire en enseignement collégial__, Cégep de Sainte-Foy
 - Enseignement, animation et observation dans le cadre du cours « Les idées dans l'histoire : séminaire philosophique », supervisé par Mathieu Saucier-Guay, professeur de philosophie au Cégep de Sainte-Foy.
 - Élaboration d'un plan de cours conformément au devis ministériel et planification des séances individuelles en compagnie du superviseur de stage.
 
-## Formation hors cursus ##
+## Implication hors-bibliothèque ##
+
+`2022-2023`
+__Projet Minwashin__
+
+- Conception d'un guide de vulgarisation du concept de « gouvernance de l'information » pour des personnes non initiées aux sciences de l’information.
+- Formulation d'une politique de gestion documentaire adaptée au contexte de décolonisation de l’information et au désir d’autodétermination des anicinabek.
 
 `2022`
-__Programme BiblioTECH__: Excel, Git et GitHub, OpenRefine, Python.
+__Programme BiblioTECH__
+
+- Formation continue sur _Excel_, _Git_ et _GitHub_, _OpenRefine_, _Python_.
+- Présentation de l'édition 2023 du programme aux étudiants de l'École de biblothéconomie et des sciences de l'information, à l'Université de Montréal.
 
 ## Distinctions
+
+`2022`
+__Bourse de la Faculté des arts et des sciences de l'Université de Montréal__
+Pour la participation au projet _Minwashin_, 5,000$ CDN.
 
 `2017`
 __Bourse d'excellence à l'admission de l'Université Laval__
@@ -69,6 +80,6 @@ __Bourse d'excellence de la Fondation du Cégep de Sainte-Foy__
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: 2022 -->
 
 
