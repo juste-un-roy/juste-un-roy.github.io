@@ -22,10 +22,10 @@ Université Laval
 
 `Présent`
 __Bibliothécaire-étudiant__, École de technologie supérieure
-- Réalisation d'une étude bibliométrique portant sur les articles de synthèse produits à l'ÉTS. [Classification automatique des documents](https://juste-un-roy.github.io/blog/FT-ETS/) par type de synthèse à l'aide d'un algorithme d'intelligence artificielle.
-- Création d'un guide sur la fouille de données et d'une grille comparative de logiciels, pour un étudiant au postdoctorat. Ce travail a demandé de faire une revue de la littérature récente sur la fouille de données et d'évaluer différents logiciels en fonction des besoins et des capacités de l'étudiant.
-- Conception, rédaction et mise en page du guide de lecture féministe de l'ÉTS, « Objectif féminin pluriel », avec _Libguide_.
-- Correction, mise à jour et modification du guide de l'ÉTS sur la bibliométrie, avec _Libguide_. Ce travail a demandé de faire une revue de la littérature systématique sur la bibliométrie et de faire une étude comparée des guides produits par d'autres bibliothèques universitaires.
+- Réalisation d'une étude bibliométrique portant sur les revues de la littératures publiées par des chercheurs de l'ÉTS. [Classification automatique des documents](https://juste-un-roy.github.io/blog/FT-ETS/) par type de synthèse à l'aide d'un algorithme d'intelligence artificielle.
+- Conception, rédaction et mise en page d'un guide sur la fouille de textes, avec _Libguide_.
+- Rédaction et mise en page du guide de lecture féministe de l'ÉTS, « Objectif féminin pluriel », avec _Libguide_.
+- Correction, mise à jour et modification du guide de l'ÉTS sur la bibliométrie, avec _Libguide_. Ce travail a demandé de faire une revue de la littérature sur la bibliométrie et de faire une étude comparée des guides produits par d'autres bibliothèques universitaires.
 - Référence, en présentiel et en ligne, avec _LibAnswer_ et _LibInsight_.
 
 `2022`
