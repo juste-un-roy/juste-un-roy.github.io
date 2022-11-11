@@ -12,4 +12,5 @@ Je suis bibliothécaire-étudiant à l'École de technologie supérieure (ETS). 
 - Sciences humaines numériques
 - Bibliométrie et communication savante
 - Fouille de données textuelles
-- Bibliothèques universitaires et recherche en universités
+- Bibliothéconomie critique
+- Bibliothèques universitaires et recherche en université
