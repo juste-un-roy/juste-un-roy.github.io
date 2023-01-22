@@ -20,7 +20,7 @@ Université Laval
 
 ## Expériences professionnelles
 
-`Présent`
+`2022-Présent`
 __Bibliothécaire-étudiant__, École de technologie supérieure
 - Réalisation d'une étude bibliométrique portant sur les revues de la littératures publiées par des chercheurs de l'ÉTS. [Classification automatique des documents](https://juste-un-roy.github.io/blog/FT-ETS/) par type de synthèse à l'aide d'un algorithme d'intelligence artificielle.
 - Conception, rédaction et mise en page d'un guide sur la fouille de textes, avec _Libguide_.
