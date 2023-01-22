@@ -58,8 +58,8 @@ __Stagiaire en enseignement collégial__, Cégep de Sainte-Foy
 `2022-2023`
 __Projet Minwashin__
 
+- Développement et rédaction d'une politique de gestion documentaire (GDA) en coopération avec les communautés anicinabek.
 - Conception d'un guide de vulgarisation de la gouvernance des données pour des personnes non initiées aux sciences de l’information.
-- Développement d'une politique de gestion documentaire adaptée au contexte de décolonisation de l’information anicinabek.
 
 `2022`
 __Programme BiblioTECH__
