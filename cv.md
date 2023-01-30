@@ -39,7 +39,7 @@ __Adjoint juridique__, Alinéa Notaires
 
 - Traitement documentaire juridique, traitement de texte et rédaction pour Mes Caroline Reilly et Caroline Allard, notaires.
 - Structuration d'information et création de fiche-clients personnalisables.
-- Rédaction de trois procéduriers pour les adjoints juridiques : création de copies-conformes, recherche testamentaire et complétion de fiches-clients.
+- Rédaction de procéduriers standardisés pour les adjoints juridiques.
 
 `2020-2021`
 __Commis de bibliothèque__, Institut Canadien de Québec (ICQ)
