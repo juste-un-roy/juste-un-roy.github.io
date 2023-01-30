@@ -55,17 +55,17 @@ __Stagiaire en enseignement collégial__, Cégep de Sainte-Foy
 
 ## Implications hors-bibliothèque ##
 
+`2023 (à venir)`
+__Présentation de la fouille de textes à un parti politique québécois__
+
+- Présentation d'une [étude en fouille de textes](https://juste-un-roy.github.io/blog/FT-UDEM/), lors du congrès d'un parti politique québécois. L'étude en question, réalisée avec Yutaka Suzuki en automne 2022, porte sur les stratégies de communication des partis politiques. La conférence vise à montrer au parti politique qui nous a invités l'utilité des compétences technologiques en campagne électorale.
+
 `2022-2023`
 __Minwashin__
 
 - Développement et rédaction d'une politique de gestion documentaire (GDA) pour la bibliothèque virtuelle [Nipakanatik](https://minwashin.org/projets/patrimoine/), en coopération avec les communautés anicinabek du Québec. La politique couvre les aspects éthiques et légaux de la recherche avec les peuples autochtones ; elle décrit les conditions d'utilisation et d'accès aux documents, et définit les rôles et responsabilités des acteurs impliqués.
 - Conception d'un guide de vulgarisation sur la gouvernance des données, pour des personnes non initiées aux sciences de l’information.
 - Rencontres avec le médiateur culturel Maurice Kistabish.
-
-`2023`
-__Présentation de la fouille de textes à un parti politique québécois__
-
-- Présentation d'une [étude en fouille de textes](https://juste-un-roy.github.io/blog/FT-UDEM/), lors du congrès d'un parti politique québécois. L'étude en question, réalisée avec Yutaka Suzuki en automne 2022, porte sur les stratégies de communication des partis politiques. La conférence vise à montrer au parti politique qui nous a invités l'utilité des compétences technologiques en campagne électorale.
 
 `2022`
 __Programme BiblioTECH__
