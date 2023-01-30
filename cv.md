@@ -22,10 +22,10 @@ Université Laval
 
 `2022-Présent`
 __Bibliothécaire-étudiant__, École de technologie supérieure
-- Réalisation d'une étude bibliométrique portant sur les revues de la littératures publiées par des chercheurs de l'ÉTS. [Classification automatique des documents](https://juste-un-roy.github.io/blog/FT-ETS/) par type de synthèse à l'aide d'un algorithme d'intelligence artificielle.
-- Conception, rédaction et mise en page d'un guide sur la fouille de textes, avec _Libguide_.
+- Réalisation d'une étude bibliométrique portant sur les revues de la littératures publiées par des chercheurs de l'ÉTS. [Classification automatique des documents](https://juste-un-roy.github.io/blog/FT-ETS/) par type de revue de la littérature à l'aide d'un algorithme d'intelligence artificielle que j'ai programmé. Présentation du projet à l'interne pour montrer la pertinence des compétences technologiques en bibliothèques universitaires.
+- Conception, rédaction et mise en page d'un guide sur la fouille de textes, avec _Libguide_. Conception d'ateliers libres sur le sujet.
 - Rédaction et mise en page du guide de lecture féministe de l'ÉTS, « Objectif féminin pluriel », avec _Libguide_.
-- Correction, mise à jour et modification du guide de l'ÉTS sur la bibliométrie, avec _Libguide_. Ce travail a demandé de faire une revue de la littérature sur la bibliométrie et de faire une étude comparée des guides produits par d'autres bibliothèques universitaires.
+- Correction, mise à jour et modification du guide de l'ÉTS sur la bibliométrie, avec _Libguide_.
 - Référence, en présentiel et en ligne, avec _LibAnswer_ et _LibInsight_.
 
 `2022`
@@ -56,10 +56,11 @@ __Stagiaire en enseignement collégial__, Cégep de Sainte-Foy
 ## Implications hors-bibliothèque ##
 
 `2022-2023`
-__Projet Minwashin__
+__Minwashin_
 
-- Développement et rédaction d'une politique de gestion documentaire (GDA) en coopération avec les communautés anicinabek.
-- Conception d'un guide de vulgarisation de la gouvernance des données pour des personnes non initiées aux sciences de l’information.
+- Développement et rédaction d'une politique de gestion documentaire (GDA) pour la bibliothèque virtuelle [Nipakanatik](https://minwashin.org/projets/patrimoine/), en coopération avec les communautés anicinabek du Québec. La politique couvre les aspects éthiques et légaux de la recherche avec les peuples autochtones ; elle décrit les conditions d'utilisation et d'accès aux documents, et définit les rôles et responsabilités des acteurs impliqués.
+- Conception d'un guide de vulgarisation sur la gouvernance des données, pour des personnes non initiées aux sciences de l’information.
+- Rencontres avec le médiateur culturel Maurice Kistabish.
 
 `2022`
 __Programme BiblioTECH__
