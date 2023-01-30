@@ -10,7 +10,7 @@ Bibliothécaire-étudiant à l'École de technologie supérieure
 
 ## Éducation
 
-`2021 - Present`
+`2021 - Présent`
 __Maîtrise en sciences de l'information__,
 Université de Montréal
 
