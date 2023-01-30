@@ -56,7 +56,7 @@ __Stagiaire en enseignement collégial__, Cégep de Sainte-Foy
 ## Implications hors-bibliothèque ##
 
 `2022-2023`
-__Minwashin_
+__Minwashin__
 
 - Développement et rédaction d'une politique de gestion documentaire (GDA) pour la bibliothèque virtuelle [Nipakanatik](https://minwashin.org/projets/patrimoine/), en coopération avec les communautés anicinabek du Québec. La politique couvre les aspects éthiques et légaux de la recherche avec les peuples autochtones ; elle décrit les conditions d'utilisation et d'accès aux documents, et définit les rôles et responsabilités des acteurs impliqués.
 - Conception d'un guide de vulgarisation sur la gouvernance des données, pour des personnes non initiées aux sciences de l’information.
