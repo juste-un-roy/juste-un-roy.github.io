@@ -56,9 +56,9 @@ __Stagiaire en enseignement collégial__, Cégep de Sainte-Foy
 ## Implications hors-bibliothèque ##
 
 `2023 (à venir)`
-__Présentation de la fouille de textes à un parti politique québécois__
+__Présentation de la fouille de textes au congrès de Québec Solidaire__
 
-- Présentation d'une [étude en fouille de textes](https://juste-un-roy.github.io/blog/FT-UDEM/), lors du congrès d'un parti politique québécois. L'étude en question, réalisée avec Yutaka Suzuki en automne 2022, porte sur les stratégies de communication des partis politiques. La conférence vise à montrer au parti politique qui nous a invités l'utilité des compétences technologiques en campagne électorale.
+- Présentation d'une [étude en fouille de textes](https://juste-un-roy.github.io/blog/FT-UDEM/), lors du congrès de Québec Solidaire. L'étude en question, réalisée avec Yutaka Suzuki en automne 2022, porte sur les stratégies de communication des partis politiques québécois. La conférence vise à montrer au parti politique qui nous a invités les applications possibles de la fouille de textes en campagne électorale.
 
 `2022-2023`
 __Minwashin__
