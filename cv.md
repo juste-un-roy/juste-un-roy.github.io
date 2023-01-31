@@ -22,7 +22,7 @@ Université Laval
 
 `2022-Présent`
 __Bibliothécaire-étudiant__, École de technologie supérieure
-- Réalisation d'une étude bibliométrique portant sur les revues de la littérature publiées par des chercheurs de l'ÉTS. [Classification automatique des documents](https://juste-un-roy.github.io/blog/FT-ETS/) par type de revue de la littérature à l'aide d'un algorithme d'intelligence artificielle que j'ai programmé. Présentation du projet à l'interne pour faire valoir la pertinence des compétences technologiques en bibliothèques universitaires.
+- Réalisation d'une étude bibliométrique portant sur les revues de la littérature publiées par des chercheurs de l'ÉTS. [Classification des documents](https://juste-un-roy.github.io/blog/FT-ETS/) par type de revue de la littérature à l'aide d'un algorithme d'intelligence artificielle que j'ai programmé. Présentation du projet à l'interne pour faire valoir la pertinence des compétences technologiques en bibliothèques universitaires.
 - Conception, rédaction et mise en page d'un guide sur la fouille de textes, avec _Libguide_. Conception d'ateliers libres sur le sujet.
 - Rédaction et mise en page du guide de lecture féministe de l'ÉTS, « Objectif féminin pluriel », avec _Libguide_.
 - Correction, mise à jour et modification du guide de l'ÉTS sur la bibliométrie, avec _Libguide_.
