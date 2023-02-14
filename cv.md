@@ -61,7 +61,7 @@ __Présentation de la fouille de textes au congrès de Québec Solidaire__
 - Présentation d'une [étude en fouille de textes](https://juste-un-roy.github.io/blog/FT-UDEM/), lors du congrès de Québec Solidaire. L'étude en question, réalisée avec Yutaka Suzuki en automne 2022, porte sur les stratégies de communication des partis politiques québécois. La conférence vise à montrer au parti politique qui nous a invités les applications possibles de la fouille de textes en campagne électorale.
 
 `2023 (à venir)`
-__Francolloque_
+__Francolloque__
 
 - Présentation, avec Marie Thériault, professeure agrégé à la Faculté des sciences de l'éducation de l'Université de Montréal, d'une étude sur l'état de la langue française dans le milieu scientifique québécois, à la Grande bibliothèque de Montréal. La présentation a lieu dans le cadre d'un [colloque](https://allevents.in/montreal/francolloque/200024042657500) sur la place du français dans les universités et les cégeps.
 
