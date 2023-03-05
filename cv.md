@@ -31,7 +31,7 @@ __Bibliothécaire-étudiant__, École de technologie supérieure
 `2022`
 __Auxiliaire de recherche__, Université de Montréal
 
-- Recherche documentaire et élaboration d'une stratégie de recension des écrits pour Marie Thériault, professeure agrégé à la Faculté des sciences de l'éducation de l'Université de Montréal, sur l'état de la langue française dans le milieu scientifique québécois.
+- Recherche documentaire et élaboration d'une stratégie de recension des écrits pour Marie Thériault, professeure agrégé à la Faculté des sciences de l'éducation de l'Université de Montréal, sur l'état de la langue française en enseignement supérieur.
 - Gestion d'une bibliothèque virtuelle contenant plus d'une centaine de documents, incluant la création de métadonnées à des fins de classification et de description. 
 
 `2021`
@@ -63,7 +63,7 @@ __Présentation de la fouille de textes au congrès de Québec Solidaire__
 `2023 (à venir)`
 __Francolloque__
 
-- Présentation, avec Marie Thériault, professeure agrégé à la Faculté des sciences de l'éducation de l'Université de Montréal, d'une étude sur l'état de la langue française dans le milieu scientifique québécois, à la Grande bibliothèque de Montréal. La présentation a lieu dans le cadre d'un [colloque](https://allevents.in/montreal/francolloque/200024042657500) sur la place du français dans les universités et les cégeps.
+- Présentation, avec Marie Thériault, professeure agrégé à la Faculté des sciences de l'éducation de l'Université de Montréal, d'une étude sur l'état de la langue française en enseignement supérieur, à la Grande bibliothèque de Montréal. La présentation a lieu dans le cadre d'un [colloque](https://francolloque.lacsq.org/programmation/) sur la place du français dans les universités et les cégeps.
 
 `2022-2023`
 __Minwashin__
