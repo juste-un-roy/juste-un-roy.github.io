@@ -56,9 +56,9 @@ __Stagiaire en enseignement collégial__, Cégep de Sainte-Foy
 ## Implications hors-bibliothèque ##
 
 `2023 (à venir)`
-__Présentation de la fouille de textes au congrès de Québec Solidaire__
+__Congrès de l'Acfas__
 
-- Présentation d'une [étude en fouille de textes](https://juste-un-roy.github.io/blog/FT-UDEM/), lors du congrès de Québec Solidaire. L'étude en question, réalisée avec Yutaka Suzuki en automne 2022, porte sur les stratégies de communication des partis politiques québécois. La conférence vise à montrer au parti politique qui nous a invités les applications possibles de la fouille de textes en campagne électorale.
+- Présentation, avec Julie Lise Simard, de la gouvernance des données à Minwashin, dans le cadre du colloque [« Entre conformité et stratégie : évolution des pratiques de gouvernance de l’information dans les organisations »](https://www.acfas.ca/evenements/congres/programme-preliminaire/300/301) au congrès de l'Acfas.
 
 `2023 (à venir)`
 __Francolloque__
