@@ -60,7 +60,7 @@ __Congrès de l'Acfas__
 
 - Présentation, avec Julie Lise Simard, de la gouvernance des données à Minwashin, dans le cadre du colloque [« Entre conformité et stratégie : évolution des pratiques de gouvernance de l’information dans les organisations »](https://www.acfas.ca/evenements/congres/programme-preliminaire/300/301) au congrès de l'Acfas.
 
-`2023 (à venir)`
+`2023`
 __Francolloque__
 
 - Présentation, avec Marie Thériault, professeure agrégé à la Faculté des sciences de l'éducation de l'Université de Montréal, d'une étude sur l'état de la langue française en enseignement supérieur, à la Grande bibliothèque de Montréal. La présentation a lieu dans le cadre d'un [colloque](https://francolloque.lacsq.org/programmation/) sur la place du français dans les universités et les cégeps.
