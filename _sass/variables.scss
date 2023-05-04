@@ -52,11 +52,11 @@ $vimeo-color        : #1ab7ea;
 $youtube-color      : #ff3333;
 
 /* links */
-$linkcolor 		    : darken($border-color) ;
+$linkcolor 		    : #343434 ;
 $link-color       : $linkcolor;
-$linkcolorhover 	: $linkcolor;
-$linkcolorvisited : $linkcolor;
-$linkcolorfocus 	: $linkcolor;
+$linkcolorhover 	: darken($linkcolor, 10);
+$linkcolorvisited : lighten($linkcolorhover, 20);
+$linkcolorfocus 	: darken($linkcolorvisited, 10);
 
 /*
    Breakpoints
