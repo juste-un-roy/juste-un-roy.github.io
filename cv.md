@@ -37,6 +37,13 @@ __Bibliothécaire-étudiant__, École de technologie supérieure (ÉTS)
 - Correction, mise à jour et modification du guide thématique de l'ÉTS sur la bibliométrie, avec _Libguide_.
 - Référence, en présentiel et en ligne, avec _LibAnswer_ et _LibInsight_.
 
+`2022-2023`
+__Stagiaire__, Minwashin
+
+- Développement et rédaction d'une politique de gestion documentaire (GDA) pour la bibliothèque virtuelle anicinabe [Nipakanatik](https://minwashin.org/projets/patrimoine/), en coopération avec le médiateur culturel Maurice Kistabish. La politique couvre les aspects éthiques et légaux de la recherche avec les peuples autochtones ; elle décrit les conditions d'utilisation et d'accès aux documents et définit les rôles et responsabilités des acteurs impliqués.
+- Conception d'un guide de vulgarisation sur la gouvernance des données, pour des personnes non initiées aux sciences de l’information.
+- Production d'un rapport de recherche sur les représentations attachées à la gouvernance de l'information par les membres de Nipakanatik, pour Minwashin.
+
 `2022`
 __Auxiliaire de recherche__, Université de Montréal
 
@@ -73,13 +80,6 @@ __Congrès de l'Acfas__
 __Francolloque__
 
 - Présentation, avec Marie Thériault, professeure agrégé à la Faculté des sciences de l'éducation de l'Université de Montréal, d'une étude sur l'état de la langue française en enseignement supérieur, à la Grande bibliothèque de Montréal. La présentation a eu lieu dans le cadre d'un [colloque](https://francolloque.lacsq.org/programmation/) sur la place du français dans les universités et les cégeps.
-
-`2022-2023`
-__Minwashin__
-
-- Développement et rédaction d'une politique de gestion documentaire (GDA) pour la bibliothèque virtuelle [Nipakanatik](https://minwashin.org/projets/patrimoine/), en coopération avec les communautés anicinabek du Québec. La politique couvre les aspects éthiques et légaux de la recherche avec les peuples autochtones ; elle décrit les conditions d'utilisation et d'accès aux documents et définit les rôles et responsabilités des acteurs impliqués.
-- Conception d'un guide de vulgarisation sur la gouvernance des données, pour des personnes non initiées aux sciences de l’information.
-- Production d'un rapport sur les représentations attachées à la gouvernance de l'information par les membres de Nipakanatik, pour Minwashin.
 
 `2022`
 __Programme BiblioTECH__
