@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Python à la rescousse d'un chercheur ambitieux
+title: Python à la rescousse d'un bibliothécaire débordé
 excerpt: "À la bibliothèque de l'École de Technologie supérieure, l'utilisation de Python a permis d'accélérer la classification de revues de la littérature."
 modified: 24/09/2022, 17:37
 tags: [analyse et fouille de texte, Python]
