@@ -23,7 +23,7 @@ Université Laval
 `Présent`
 __Stagiaire__, Service des bibliothèques de l'Université du Québec à Montréal (UQÀM)
 
-- Création et organisation de contenus pour le site Web [Recherche numérique] (https://recherchenumerique.uqam.ca/). Conception de scénarios d’utilisation en humanités numériques sur le moissonnage du Web, la fouille de texte et la visualisation de données. Création d'un gabarit pour les bibliothécaires.
+- Création et organisation de contenus pour le site Web [Recherche numérique](https://recherchenumerique.uqam.ca/). Conception de scénarios d’utilisation en humanités numériques sur le moissonnage du Web, la fouille de texte et la visualisation de données. Création d'un gabarit pour les bibliothécaires.
 - Conception et animation d'une formation en lien avec les humanités numériques.
 - Rédaction d’un compte rendu pour la journée de réseautage en humanités numériques à l'UQÀM du 3 mai 2023.
 - Organisation de la bibliothèque Zotero sur les humanités numériques du Service des bibliothèques de l'UQÀM.
