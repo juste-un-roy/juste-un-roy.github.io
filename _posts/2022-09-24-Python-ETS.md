@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Python à la rescousse d'un chercheur ambitieux
-excerpt: "À la bibliothèque de l'École de Technologie supérieure, l'utilisation de Python a permis de simplifier la classification de revues de la littérature."
+excerpt: "À la bibliothèque de l'École de Technologie supérieure, l'utilisation de Python a permis d'accélérer la classification de revues de la littérature."
 modified: 24/09/2022, 17:37
-tags: [fouille de textes, bibliométrie, ÉTS]
+tags: [analyse et fouille de texte, Python, ÉTS]
 comments: true
 category: blog
 ---
@@ -18,7 +18,7 @@ Ces résultats ont été présentés au personnel de la bibliothèque, de façon
 
 ## Méthodologie
 
-L'[algorithme](https://github.com/juste-un-roy/FT-Classification-Automatique) a été codé avec l'aide de Clara Turp, alors bibliothécaire système à l'Université McGill. Très simple, il procède en recherchant une liste d’expressions régulières dans la notice d’un article. L’occurrence et la fréquence de chaque expression dans la notice sont comptabilisées, de façon à faciliter sa classification manuelle a posteriori.
+L'[algorithme](https://github.com/juste-un-roy/FT-Classification-Automatique) a été codé en Python avec l'aide de Clara Turp, alors bibliothécaire système à l'Université McGill. Très simple, il procède en recherchant une liste d’expressions régulières dans la notice d’un article. L’occurrence et la fréquence de chaque expression dans la notice sont comptabilisées, de façon à faciliter sa classification manuelle a posteriori.
 
 Nous avons traité la diversité et la fréquence des occurrences comme des indicateurs nous permettant de pondérer la catégorie d'un artile et la probalité qu'il soit réellement ou non une revue de la littérature. Cette méthode nous a permis d'identifer rapidement les faux positif au sein de notre corpus. 
 
