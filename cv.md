@@ -40,7 +40,7 @@ __Bibliothécaire-étudiant__, École de technologie supérieure (ÉTS)
 `2022-2023`
 __Stagiaire__, Minwashin
 
-- Développement et rédaction d'une politique de gestion documentaire (GDA) pour la bibliothèque virtuelle anicinabe [Nipakanatik](https://minwashin.org/projets/patrimoine/), en coopération avec le médiateur culturel Maurice Kistabish. La politique couvre les aspects éthiques et légaux de la recherche avec les peuples autochtones ; elle décrit les conditions d'utilisation et d'accès aux documents et définit les rôles et responsabilités des acteurs impliqués.
+- Développement et rédaction d'une politique de gestion documentaire (GDA) pour la bibliothèque virtuelle anicinabe [Nipakanatik](https://minwashin.org/projets/patrimoine/), en coopération avec le médiateur culturel Maurice Kistabish. La politique couvre les aspects éthiques et légaux de la recherche avec les peuples autochtones ; décrit les conditions d'utilisation et d'accès aux documents et définit les rôles et responsabilités des acteurs impliqués.
 - Conception d'un guide de vulgarisation sur la gouvernance des données, pour des personnes non initiées aux sciences de l’information.
 - Production d'un rapport de recherche sur les représentations attachées à la gouvernance de l'information par les membres de Nipakanatik, pour Minwashin.
 
