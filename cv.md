@@ -10,7 +10,7 @@ Bibliothécaire-étudiant à l'École de technologie supérieure
 
 ## Éducation
 
-`2021 - Présent`
+`2021 - 2023`
 __Maîtrise en sciences de l'information__,
 Université de Montréal
 
@@ -20,12 +20,21 @@ Université Laval
 
 ## Expériences professionnelles
 
+`Présent`
+__Stagiaire__, Service des bibliothèques de l'Université du Québec à Montréal (UQÀM)
+
+- Création et organisation de contenus pour le site Web [Recherche numérique] (https://recherchenumerique.uqam.ca/). Conception de scénarios d’utilisation en humanités numériques sur le moissonnage du Web, la fouille de texte et la visualisation de données. Création d'un gabarit pour les bibliothécaires.
+- Conception et animation d'une formation en lien avec les humanités numériques.
+- Rédaction d’un compte rendu pour la journée de réseautage en humanités numériques à l'UQÀM du 3 mai 2023.
+- Organisation de la bibliothèque Zotero sur les humanités numériques du Service des bibliothèques de l'UQÀM.
+
 `2022-Présent`
-__Bibliothécaire-étudiant__, École de technologie supérieure
+__Bibliothécaire-étudiant__, École de technologie supérieure (ÉTS)
+
 - Réalisation d'une étude bibliométrique portant sur les revues de la littérature publiées par des chercheurs de l'ÉTS. [Classification des documents](https://juste-un-roy.github.io/blog/FT-ETS/) par type de revue de la littérature à l'aide d'un algorithme d'intelligence artificielle que j'ai programmé. Présentation du projet à l'interne pour faire valoir la pertinence des compétences technologiques en bibliothèques universitaires.
-- Conception, rédaction et mise en page d'un guide sur la fouille de textes, avec _Libguide_. Conception d'un atelier libre sur le sujet.
+- Conception, rédaction et mise en page d'un guide thématique sur la fouille de textes, avec _Libguide_. Conception d'un atelier libre sur le sujet.
 - Rédaction et mise en page du guide de lecture féministe de l'ÉTS, « Objectif féminin pluriel », avec _Libguide_.
-- Correction, mise à jour et modification du guide de l'ÉTS sur la bibliométrie, avec _Libguide_.
+- Correction, mise à jour et modification du guide thématique de l'ÉTS sur la bibliométrie, avec _Libguide_.
 - Référence, en présentiel et en ligne, avec _LibAnswer_ et _LibInsight_.
 
 `2022`
@@ -55,7 +64,7 @@ __Stagiaire en enseignement collégial__, Cégep de Sainte-Foy
 
 ## Implications hors-bibliothèque ##
 
-`2023 (à venir)`
+`2023`
 __Congrès de l'Acfas__
 
 - Présentation, avec Julie Lise Simard, de la gouvernance des données à Minwashin, dans le cadre du colloque [« Entre conformité et stratégie : évolution des pratiques de gouvernance de l’information dans les organisations »](https://www.acfas.ca/evenements/congres/programme-preliminaire/300/301) au congrès de l'Acfas.
