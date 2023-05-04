@@ -55,8 +55,8 @@ $youtube-color      : #ff3333;
 $linkcolor 		    : darken($border-color) ;
 $link-color       : $linkcolor;
 $linkcolorhover 	: $linkcolor;
-$linkcolorvisited : darken($linkcolorhover, 20);
-$linkcolorfocus 	: darken($linkcolorvisited, 10);
+$linkcolorvisited : $linkcolor;
+$linkcolorfocus 	: $linkcolor;
 
 /*
    Breakpoints
