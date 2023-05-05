@@ -18,6 +18,10 @@ D’aussi hauts taux de précision ont de quoi surprendre, considérant la petit
 
 En effet, après s’être félicité de la qualité des résultats obtenus, nous avons souhaité étudier les erreurs commises par l'intelligence artificielle, avec l’espoir qu’elles relèveraient des similarités entre certains partis politiques. Prenant exemple du [travail de Dominic Forest](http://dominicforest.me/fed2015/2015/10/15/des-machines-et-des-mots-les-partis-sont-ils-coherents/), nous avons donc observé les matrices de confusion extraites de nos expérimentations.
 
+![image](https://user-images.githubusercontent.com/110431473/236585520-fe68696a-80cd-4306-8c01-77ab584662c8.png)
+
+![image](https://user-images.githubusercontent.com/110431473/236585579-d2b57bcf-bc10-455c-b7d2-953e4a281453.png)
+
 __La C.A.Q. et le P.L.Q. : en lutte pour être le « parti de l'économie »
 
 La première source d’erreurs digne d’intérêt est une confusion proéminente entre les textes émis par la C.A.Q. et les communiqués du P.L.Q. Ces deux formations ont effectivement plusieurs points en commun, notamment d’occuper un espace au centre droit du spectre politique et de mener une chaude lutte pour se voir attribuer l’épithète de « parti de l’économie ». Ce sont aussi deux partis ayant, au cours de la période couverte par notre corpus, formé le gouvernement, puis demandé aux québécois de les réélire pour un deuxième mandat. Enfin, à la fois la C.A.Q. et le P.L.Q. courtisent l’électorat qui se place au centre de l’axe gauche-droite. Quoiqu’en disent leurs représentants, ces organisations semblent donc entretenir une relation de similarité assez forte pour confondre une intelligence artificielle.
