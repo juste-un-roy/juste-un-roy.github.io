@@ -20,7 +20,7 @@ En effet, après s’être félicité de la qualité des résultats obtenus, nou
 
 ![image](https://user-images.githubusercontent.com/110431473/236585579-d2b57bcf-bc10-455c-b7d2-953e4a281453.png)
 
-__La C.A.Q. et le P.L.Q. : en lutte pour être le « parti de l'économie »
+__La C.A.Q. et le P.L.Q. : en lutte pour être le « parti de l'économie »__
 
 La première source d’erreurs digne d’intérêt est une confusion proéminente entre les textes émis par la C.A.Q. et les communiqués du P.L.Q. Ces deux formations ont effectivement plusieurs points en commun, notamment d’occuper un espace au centre droit du spectre politique et de mener une chaude lutte pour se voir attribuer l’épithète de « parti de l’économie ». Ce sont aussi deux partis ayant, au cours de la période couverte par notre corpus, formé le gouvernement, puis demandé aux québécois de les réélire pour un deuxième mandat. Enfin, à la fois la C.A.Q. et le P.L.Q. courtisent l’électorat qui se place au centre de l’axe gauche-droite. Quoiqu’en disent leurs représentants, ces organisations semblent donc entretenir une relation de similarité assez forte pour confondre une intelligence artificielle.
 
@@ -28,7 +28,7 @@ __Éric Duhaime en quête de « caquistes déçus »__
 
 Une autre source d’erreurs notable implique encore une confusion entre la C.A.Q. et un autre parti politique, cette fois le P.C.Q. Ceci étant dit, elle semble moins traduire un « pas de deux » qu’une velléité du chef conservateur de courtiser les appuis caquistes. Hypothèse que corroborent les faits, Duhaime ayant déjà persuadé une ancienne député de la C.A.Q. de rejoindre ses rangs et déclaré qu’il espérait convertir d’autres « caquistes déçus ». D’autant que le P.C.Q. a été le plus compétitif dans des circonscriptions acquises à la C.A.Q. depuis 2012, comme Beauce-Nord. Par ailleurs, la confusion entre ces partis politiques aurait pu être accentuée par la sur-représentation du mot « Legault » dans les communiqués du P.C.Q., caractéristique d’une formation qui a ancré son identité dans son opposition au premier ministre.
 
-__François Legault ne se gène pas pour emprunter à ses adversaires
+__François Legault ne se gène pas pour emprunter à ses adversaires__
 
 Finalement, il convient de souligner que la classification naïve bayésienne a prédit incorrectement le parti politique de 34 textes émis par la C.A.Q., avec un nombre d’erreurs à peu près égal pour Q.S. et le P.Q. Doit-on y voir la stratégie de communication d’un parti centriste, déterminé à rejoindre le plus grand nombre d’électeurs possible ? On pourrait, en tout cas, émettre l’hypothèse que les confusions avec le P.Q. découlent de l’emploi fréquent, autant par les itérations de ce parti postérieures à 2007 que par L’équipe François Legault, d’un vocabulaire associé au nationalisme identitaire. Quant aux confusions avec Q.S., elles pourraient résulter des mesures adoptées par le gouvernement caquiste en environnement, un thème cher à la formation de gauche. Tous ces éléments brossent le portrait d’une formation largement cohérente avec son idéologie, mais disposée à empiéter sur les terrains de ses adversaires.
 
