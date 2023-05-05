@@ -15,7 +15,7 @@ Inspirés par les travaux de Dominic Forest et de Damon Mayaffre, nous avons d'a
 
 __Coalition Avenir Québec - L'équipe François Legault__
 
-![image](https://user-images.githubusercontent.com/110431473/236585853-54285898-ad9c-4538-94ce-8f8a11b1d8b8.png)
+![image](https://user-images.githubusercontent.com/110431473/236586159-74759f69-c68b-48c5-8a33-f2be55b3f1c0.png)
 
 Les mots « enfant », « scolaire » et « décrochage » se retrouvent parmi les plus caractéristiques des plateformes électorales et documents programmatiques de cette formation. Cette spécificité concorde avec les nombreuses allocutions lors desquelles François Legault a affirmé que sa priorité était l’éducation  ; elle découle peut-être aussi du fait que la C.A.Q. a souvent courtisé un électorat composé de jeunes familles. Par ailleurs, notons que ces termes sont sous-représentés chez Q.S. et sur-représentés au P.C.Q. Le terme « contribuable », afférent au thème de l’économie, évoque la position sur l’échiquier politique de cette formation, campée à droite et soucieuse du portefeuille des québécois pris individuellement. Fait intéressant, ce même mot est sur-représenté dans les textes du P.C.Q., un autre parti de droite, mais sous-représenté au P.L.Q., lequel s’est pourtant longtemps défini comme le « parti de l’économie ».
 
