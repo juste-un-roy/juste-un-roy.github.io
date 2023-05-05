@@ -18,8 +18,6 @@ D’aussi hauts taux de précision ont de quoi surprendre, considérant la petit
 
 En effet, après s’être félicité de la qualité des résultats obtenus, nous avons souhaité étudier les erreurs commises par l'intelligence artificielle, avec l’espoir qu’elles relèveraient des similarités entre certains partis politiques. Prenant exemple du [travail de Dominic Forest](http://dominicforest.me/fed2015/2015/10/15/des-machines-et-des-mots-les-partis-sont-ils-coherents/), nous avons donc observé les matrices de confusion extraites de nos expérimentations.
 
-![image](https://user-images.githubusercontent.com/110431473/236585520-fe68696a-80cd-4306-8c01-77ab584662c8.png)
-
 ![image](https://user-images.githubusercontent.com/110431473/236585579-d2b57bcf-bc10-455c-b7d2-953e4a281453.png)
 
 __La C.A.Q. et le P.L.Q. : en lutte pour être le « parti de l'économie »
