@@ -15,31 +15,31 @@ Inspirés par les travaux de Dominic Forest et de Damon Mayaffre, nous avons d'a
 
 __Coalition Avenir Québec - L'équipe François Legault__
 
-<img width="408" alt="Capture d’écran, le 2023-01-22 à 12 04 23" src="https://user-images.githubusercontent.com/110431473/213929407-4593e96e-5da1-4891-a670-2476ab4f9526.png">
+![image](https://user-images.githubusercontent.com/110431473/236585853-54285898-ad9c-4538-94ce-8f8a11b1d8b8.png)
 
 Les mots « enfant », « scolaire » et « décrochage » se retrouvent parmi les plus caractéristiques des plateformes électorales et documents programmatiques de cette formation. Cette spécificité concorde avec les nombreuses allocutions lors desquelles François Legault a affirmé que sa priorité était l’éducation  ; elle découle peut-être aussi du fait que la C.A.Q. a souvent courtisé un électorat composé de jeunes familles. Par ailleurs, notons que ces termes sont sous-représentés chez Q.S. et sur-représentés au P.C.Q. Le terme « contribuable », afférent au thème de l’économie, évoque la position sur l’échiquier politique de cette formation, campée à droite et soucieuse du portefeuille des québécois pris individuellement. Fait intéressant, ce même mot est sur-représenté dans les textes du P.C.Q., un autre parti de droite, mais sous-représenté au P.L.Q., lequel s’est pourtant longtemps défini comme le « parti de l’économie ».
 
 __Parti Libéral du Québec - Quebec Liberal Party__
 
-<img width="365" alt="Capture d’écran, le 2023-01-22 à 12 04 36" src="https://user-images.githubusercontent.com/110431473/213929414-adb8b171-60d0-4951-b921-16ef0a75806d.png">
+![image](https://user-images.githubusercontent.com/110431473/236585871-9c1f01b7-8ebb-4fff-a278-9252ffbce7ed.png)
 
 Les documents programmatiques de ce parti affichent une sur-représentation de termes trop larges pour évoquer un positionnement idéologique. Les mots à saveur procédurale, comme « conseil », « membre », « exécutif » ou « comité » , y abondent. Cette absence de contenu idéologique, au sein même des documents pourtant censés traduire l’orientation politique du P.L.Q., pourrait refléter un mal qui gangrène le parti depuis quelques années, à savoir que la formation de Couillard et Anglade peine à redéfinir son identité, à une époque marquée par la disparition progressive du clivage souveraineté-fédéralisme. La perte en vitesse de ce débat, qui profitait encore à Charest en 2003, semble avoir privé le Parti libéral d'un projet central, inscrit dans la longue durée.
 
 __Québec Solidaire__
 
-<img width="373" alt="Capture d’écran, le 2023-01-22 à 12 04 44" src="https://user-images.githubusercontent.com/110431473/213929417-70e20787-9a58-4dc8-9e97-7a037bdb2669.png">
+![image](https://user-images.githubusercontent.com/110431473/236585902-675b7b2c-9444-435c-a958-00ba935e46a0.png)
 
 Les mots « droit », « femme », « peuple » et « autocthone » sont sur-représentés au sein des documents programmatiques de ce parti, qui se réclame du féminisme et de la défense des groupes minoritaires, mais sous-représentés chez les autres formations. Le thème de la démocratie et de la citoyenneté, exprimé par les mots « participatif » (comprendre « démocratie participative »), « collectivité » et « citoyen », distingue également Q.S. Certains parallèles entre les formes caractéristiques de Q.S. et des autres partis s’avèrent dignes de mention. D’abord, soulignons que le P.Q. utilise aussi les mots « communautaires », « travailleur », « public » et « social », qui traduisent la sensibilité de gauche des deux partis, plus aiguë à Q.S. Plus évocateur encore, le P.C.Q. partage avec Q.S. les termes « alternative », caractéristique d’une posture clivante ou contestataire, et « public », lequel fait écho à un sujet sur lequel les deux partis s’opposent : celui du financement des services publics.
 
 __Parti Québécois__
 
-<img width="378" alt="Capture d’écran, le 2023-01-22 à 12 04 54" src="https://user-images.githubusercontent.com/110431473/213929428-30607c12-8374-40df-8390-95310c46a3b2.png">
+![image](https://user-images.githubusercontent.com/110431473/236585911-3c3dd434-acf0-4370-9cbf-dceb7dc82485.png)
 
 La sur-représentation des mots « fier », « protéger », « français », « indépendance » et « nation » dénote le caractère nationaliste de cette formation traditionnellement attachée à la protection de la langue française et à la séparation du Québec du reste du Canada. À cet égard, soulignons deux choses. D’abord, que le terme « indépendance » est sous-représenté chez Q.S., une formation pourtant indépendantiste, comme elle l’est chez la C.A.Q., le P.C.Q. et le P.L.Q. Puis, que « français » est aussi sur-utilisé par la C.A.Q., un parti nationaliste, mais sous-représenté chez le P.L.Q., le P.C.Q. et Q.S., lesquels prônent plutôt des formes de cosmopolitisme ou d’internationalisme. Pour revenir au P.Q., quelques mots associés à la transition verte - « énergétique », « émission », « réduction » - traduisent sa fibre écologiste. De même, quelques mots à connotation positive - « gagnant », « aspirer », « réussir » - brossent le portrait d’un parti optimiste dans ses revendications.
 
 __Parti Conservateur du Québec - Équipe Éric Duhaime__
 
-<img width="352" alt="Capture d’écran, le 2023-01-22 à 12 05 10" src="https://user-images.githubusercontent.com/110431473/213929432-53e9d2e6-969e-4c5c-9fb1-c376b1c69b2e.png">
+![image](https://user-images.githubusercontent.com/110431473/236585967-a0802726-6a9c-4708-8eac-cfa3f157b0fa.png)
 
 Les documents programmatiques du P.C.Q., en faible nombre, traduisent surtout les enjeux de la dernière campagne électorale. Outre le nom et l’acronyme de la formation, on y trouve maints termes relatifs à la question du logement.  Comme Q.S., qui sur-utilise aussi le mot « logement », cette formation semble avoir fait de la crise du logement une priorité. Ses solutions diffèrent toutefois de celles préconisées par la formation de gauche, et reflètent plutôt une vision libertarienne de l’économie. Aussi retrouve-t-on « marché » (entendre « libre-marché ») parmi les formes caractéristiques du P.C.Q. Ensuite, figurent les thèmes de la santé et de la gestion de la crise pandémique, lesquels transparaissent à travers divers mots, tels « sanitaire » et « urgence ». Sur ces questions encore, s’exprime la philosophie économique du parti : le mot « privé », lui aussi très fréquent, est employé lorsque le P.C.Q. propose de privatiser le secteur de la santé au Québec. À cet égard, on pourrait s’étonner du score du mot « subventionner » ; mais compte tenu de ce qui a été dit, on peut déduire que celui-ci est utilisé négativement par le parti, tout comme « tramway », qui fait référence à un projet de transport en commun auquel s’opposait la formation en 2022.
 
