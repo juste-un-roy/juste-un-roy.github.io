@@ -34,6 +34,8 @@ Finalement, il convient de souligner que la classification naïve bayésienne a 
 
 __Corpus__
 
-Notre corpus rassemble les documents d'importance émis par les cinq principaux partis politiques québécois entre le 23 août 2018 et le 3 octobre 2022, ainsi qu’une poignée de textes programmatiques remontant jusqu’à l’année 2007. Il couvre les plateformes électorales des formations et leurs programmes ; il exclut les communications diffusées par des candidats individuels, les messages publiés par les partis sur les réseaux sociaux et les documents à saveur administrative comme les règlements.
+Le corpus utilisé pour cette expérimentation est le même que celui décrit [dans mon précédent billet de blogue](https://juste-un-roy.github.io/blog/Iramuteq-poltext1/).
 
-Malheureusement, les plateformes électorales pour l’année 2022 du P.L.Q. et du P.Q. n’étaient plus accessibles en ligne au moment d’effectuer le moissonnage des données. Nous avons compensé ce manque en récoltant plusieurs documents officiels portant sur des enjeux spécifiques, comme le développement économique des régions et l’indépendance du Québec. Par ailleurs, aucun document émis par le P.C.Q. avant 2020 n’était disponible en ligne à cette date. Le profil de cette formation représente donc uniquement les orientations que lui a données son nouveau chef, Éric Duhaime.
+__Méthodologie__
+
+La classification naïve bayésienne est une approche courante en fouille de textes, relevant d'un apprentissage-machine supervisé. Elle repose sur le modèle probabiliste de Bayes et implique une forte indépendance statistique des caractéristiques d’un document. En d’autres termes, elle traite chacun des attributs d’un texte comme influant sur sa probabilité d’appartenir à l’une ou l’autre formation politique, sans égard pour la corrélation entre ces attributs. Son déploiement, comme celui des autres procédés relevant de l’apprentissage supervisé, nécessite un corpus d’apprentissage d’autant plus grand que sa taille doit être proportionnelle au nombre de catégories - ou de partis - mobilisées.
