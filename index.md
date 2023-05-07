@@ -12,4 +12,4 @@ Je suis bibliothécaire-étudiant à l'École de technologie supérieure (ÉTS) 
 - Bibliothèques universitaires et recherche en université
 - Sciences humaines numériques
 - Recherche avec les peuples autochtones
-- Formation à l'usager
+- Gestion de projets
