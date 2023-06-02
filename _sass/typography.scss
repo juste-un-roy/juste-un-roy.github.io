@@ -33,6 +33,7 @@ h6 {
    ========================================================================== */
 
 a {
+	text-decoration-line : none;
 	color: $link-color;
 	&:visited {
 		color: $linkcolorvisited;
