@@ -33,22 +33,14 @@ h6 {
    ========================================================================== */
 
 a {
-	text-decoration:none;
-	text-decoration-line:none;
 	color: $link-color;
 	&:visited {
-		text-decoration:none;
-		text-decoration-line:none;
 		color: $linkcolorvisited;
 	}
 	&:hover {
-		text-decoration:none;
-		text-decoration-line:none;
 		color: $linkcolorhover;
 	}
 	&:focus {
-		text-decoration:none;
-		text-decoration-line:none;
 		outline: thin dotted;
 		color: $linkcolorfocus;
 	}
