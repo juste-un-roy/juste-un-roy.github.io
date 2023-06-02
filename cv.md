@@ -23,15 +23,15 @@ Université Laval
 `Présent`
 __Stagiaire__, Service des bibliothèques de l'Université du Québec à Montréal (UQÀM)
 
-- Création et organisation de contenus pour le site Web [Recherche numérique](https://recherchenumerique.uqam.ca/). Conception de scénarios d'utilisation en humanités numériques sur la visualisation de données (_VOSViewer_, _Flourish_), la fouille de texte (_Orange Data Mining_ et _Voyant Tools_) et la création d'exposition virutelle (_Exhibit_), avec _WordPress_. Conception d'un gabarit pour les bibliothécaires.
+- Création et organisation de contenus pour le site Web [Recherche numérique](https://recherchenumerique.uqam.ca/). Conception, rédaction et mise en page de scénarios d'utilisation en humanités numériques sur la visualisation de données (_VOSViewer_) et la fouille de texte (_Orange Data Mining_, _AntConc_ et _Voyant Tools_), avec _WordPress_. Conception d'un gabarit pour les bibliothécaires.
 - Rédaction d’un compte rendu pour la journée de réseautage en humanités numériques à l'UQÀM du 3 mai 2023.
 - Organisation de la bibliothèque Zotero sur les humanités numériques du Service des bibliothèques de l'UQÀM.
 
 `2022-Présent`
 __Bibliothécaire-étudiant__, École de technologie supérieure (ÉTS)
 
-- Réalisation d'une étude bibliométrique portant sur les revues de la littérature publiées par des chercheurs de l'ÉTS. [Classification des documents](https://juste-un-roy.github.io/blog/FT-ETS/) par type de revue de la littérature à l'aide d'un algorithme d'intelligence artificielle que j'ai programmé. Présentation du projet à l'interne pour faire valoir la pertinence des compétences technologiques en bibliothèques universitaires.
-- Conception, rédaction et mise en page d'un guide thématique sur la fouille de textes, avec _Libguide_. Conception d'un atelier libre sur le sujet.
+- Réalisation d'une étude bibliométrique portant sur les revues de la littérature publiées par des chercheurs de l'ÉTS. [Classification des documents](https://juste-un-roy.github.io/blog/FT-ETS/) par type de revue de la littérature à l'aide d'un algorithme d'intelligence artificielle que j'ai programmé dans _Jupyter Hub_. Présentation du projet à l'interne pour faire valoir la pertinence des compétences technologiques en bibliothèques universitaires.
+- Conception, rédaction et mise en page d'un guide thématique sur la fouille de textes, avec _Libguide_.
 - Rédaction et mise en page du guide de lecture féministe de l'ÉTS, « Objectif féminin pluriel », avec _Libguide_.
 - Correction, mise à jour et modification du guide thématique de l'ÉTS sur la bibliométrie, avec _Libguide_.
 - Référence, en présentiel et en ligne, avec _LibAnswer_ et _LibInsight_.
@@ -55,18 +55,6 @@ __Adjoint juridique__, Alinéa Notaires
 - Traitement documentaire juridique, traitement de texte et rédaction pour Mes Caroline Reilly et Caroline Allard, notaires.
 - Structuration d'information et création de fiche-clients personnalisables.
 - Rédaction de procéduriers standardisés pour les adjoints juridiques.
-
-`2020-2021`
-__Commis de bibliothèque__, Institut Canadien de Québec (ICQ)
-
-- Aide aux lecteurs à la Bibliothèque Étienne-Parent.
-- Opérations de caisse et classement dans les bibliothèques Canardière, Étienne-Parent, Saint-Albert et Saint-Charles.
-
-`2020`
-__Stagiaire en enseignement collégial__, Cégep de Sainte-Foy
-
-- Enseignement, animation et observation dans le cadre du cours « Les idées dans l'histoire : séminaire philosophique », supervisé par Mathieu Saucier-Guay, professeur de philosophie au Cégep de Sainte-Foy.
-- Élaboration d'un plan de cours conformément au devis ministériel et planification des séances individuelles en compagnie du superviseur de stage.
 
 ## Implications hors-bibliothèque ##
 
