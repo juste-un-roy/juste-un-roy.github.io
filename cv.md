@@ -42,7 +42,7 @@ __Stagiaire__, Minwashin
 - Réalisation d'une étude sur les représentations attachées à la gouvernance de l'information chez les membres de Nipakanatik. Rédaction d'un rapport de recherche pour la direction de Minwashin.
 
 `2022`
-__Auxiliaire de recherche__, Université de Montréal
+__Auxiliaire de recherche__, Université de Montréal (UdeM)
 
 - Recherche documentaire et rédaction d'une stratégie de recension des écrits pour Marie Thériault (professeure agrégé, UdeM), dans le cadre d'une étude du [LIRES](https://www.lires.ca/) sur la place du français en enseignement supérieur. La stratégie de recension des écrits est devenue la section [« Méthode générale de recherche » du rapport de recherche _La place du françcais en enseignement supérieur_](https://documentation.lacsq.org/in/documentViewer.xhtml?id=1e180c36-2393-446f-bde9-9af08649fafc&locale=fr&file=/in/rest/annotationSVC/DownloadWatermarkedAttachment/attach_upload_94ec85f8-e51f-4d1c-b129-76e952240280#%5B%7B%22num%22%3A31%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C68%2C234%2C0%5D).
 - Rédaction d'un rapport sur la découvrabilité de la recherche sur l'état du français en enseignement supérieur. Ce rapport est devenu la section [« Éléments d'analyse globale et recommendations » du rapport de recherche _La place du françcais en enseignement supérieur_](https://documentation.lacsq.org/in/documentViewer.xhtml?id=1e180c36-2393-446f-bde9-9af08649fafc&locale=fr&file=/in/rest/annotationSVC/DownloadWatermarkedAttachment/attach_upload_94ec85f8-e51f-4d1c-b129-76e952240280#%5B%7B%22num%22%3A85%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C84%2C379%2C0%5D).
