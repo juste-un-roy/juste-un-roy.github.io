@@ -13,6 +13,8 @@ __Analyser le discours des partis politiques avec la méthode du calcul des spé
 
 Inspirés par les travaux de Dominic Forest et de Damon Mayaffre, nous avons d'abord recouru à la méthode du calcul des spécificités. Celle-ci nous a permis de relever les mots caractéristiques des formations à l'étude : la Coalition avenir Québec - L’équipe François Legault (C.A.Q.-E.F.L.) ; le Parti libéral du Québec/Quebec Liberal Party (P.L.Q./Q.L.P.) ; Québec solidaire (Q.S.) ; le Parti québécois (P.Q.) ; le Parti conservateur du Québec - Équipe Éric Duhaime (P.C.Q-E.E.D.).
 
+<iframe src='https://flo.uri.sh/visualisation/14225684/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/14225684/?utm_source=embed&utm_campaign=visualisation/14225684' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
+
 __Coalition Avenir Québec - L'équipe François Legault__
 
 ![CAQ](https://user-images.githubusercontent.com/110431473/236683431-4d0d1b4c-8243-4369-a879-dc5f75ebea46.PNG)
