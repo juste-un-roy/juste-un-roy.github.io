@@ -6,7 +6,7 @@ menutitle: CV
 
 ## Justin Roy
 
-Bibliothécaire-étudiant à l'École de technologie supérieure
+Bibliothécaire-étudiant à l'École de Technologie Supérieure
 
 ## Éducation
 
@@ -23,31 +23,30 @@ Université Laval
 `Présent`
 __Stagiaire__, Service des bibliothèques de l'Université du Québec à Montréal (UQÀM)
 
-- Création et organisation de contenus pour le site Web [Recherche numérique](https://recherchenumerique.uqam.ca/). Conception, rédaction et mise en page de scénarios d'utilisation en humanités numériques sur la visualisation de données (_VOSViewer_) et la fouille de texte (_Orange Data Mining_, _AntConc_ et _Voyant Tools_), avec _WordPress_. Conception d'un gabarit pour les bibliothécaires.
-- Rédaction d’un compte rendu pour la journée de réseautage en humanités numériques à l'UQÀM du 3 mai 2023.
-- Organisation de la bibliothèque Zotero sur les humanités numériques du Service des bibliothèques de l'UQÀM.
+- Création de contenus pour le [portail web du Centre des humanités numériques](https://recherchenumerique.uqam.ca/). Conception, rédaction et mise en page de formations écrites sur la visualisation de données (_VOSViewer_, _Datawrapper_) et la fouille de texte (_Orange Data Mining_, _AntConc_), avec _WordPress_. Conception d'un gabarit pour les bibliothécaires.
+- Rédaction d’un compte-rendu de la [Journée de réseautage sur les humanités numériques à l'UQÀM](https://evenements.uqam.ca/evenements/journee-de-reseautage-sur-les-humanites-numeriques-a-l-uqam/25174?date=2023-05-03_09-30-00).
+- Classification de la bibliothèque de références sur les humanités numériques du Service des bibliothèques de l'UQÀM, avec _Zotero_.
 
-`2022-Présent`
+`2022-présent`
 __Bibliothécaire-étudiant__, École de technologie supérieure (ÉTS)
 
-- Réalisation d'une étude bibliométrique portant sur les revues de la littérature publiées par des chercheurs de l'ÉTS. [Classification des documents](https://juste-un-roy.github.io/blog/FT-ETS/) par type de revue de la littérature à l'aide d'un algorithme d'intelligence artificielle que j'ai programmé dans _Jupyter Hub_. Présentation du projet à l'interne pour faire valoir la pertinence des compétences technologiques en bibliothèques universitaires.
+- Réalisation d'une étude bibliométrique sur les revues de la littérature publiées par des chercheurs et chercheuses de l'ÉTS. [Classification des documents](https://juste-un-roy.github.io/blog/FT-ETS/) par type de revue de la littérature avec un algorithme programmé dans _Jupyter Hub_. Présentation du projet à l'interne pour faire valoir la pertinence de l'automatisation des tâches.
 - Conception, rédaction et mise en page d'un guide thématique sur la fouille de textes, avec _Libguide_.
-- Rédaction et mise en page du guide de lecture féministe de l'ÉTS, « Objectif féminin pluriel », avec _Libguide_.
-- Correction, mise à jour et modification du guide thématique de l'ÉTS sur la bibliométrie, avec _Libguide_.
 - Référence, en présentiel et en ligne, avec _LibAnswer_ et _LibInsight_.
 
 `2022-2023`
 __Stagiaire__, Minwashin
 
-- Développement et rédaction d'une politique de gestion documentaire (GDA) pour la bibliothèque virtuelle anicinabe [Nipakanatik](https://minwashin.org/projets/patrimoine/), en coopération avec le médiateur culturel Maurice Kistabish. La politique couvre les aspects éthiques et légaux de la recherche avec les peuples autochtones ; décrit les conditions d'utilisation et d'accès aux documents et définit les rôles et responsabilités des acteurs impliqués.
-- Conception d'un guide de vulgarisation sur la gouvernance des données, pour des personnes non initiées aux sciences de l’information.
-- Production d'un rapport de recherche sur les représentations attachées à la gouvernance de l'information par les membres de Nipakanatik, pour la direction de Minwashin.
+- Conception et rédaction d'une politique de gestion documentaire (GDA) pour la [bibliothèque numérique Nipakanatik](https://dev.nipakanatik.org/s/nipakanatik/page/accueil), en collaboration avec Julie Lise Simard (archiviste) et Maurice Kistabish (médiateur culturel). La politique couvre les aspects éthiques et légaux de la recherche avec les peuples autochtones, décrit les conditions d'utilisation et d'accès aux documents et définit les rôles et responsabilités des acteurs et actrices du projet. [Vous pouvez en lire un extrait ici](https://dev.nipakanatik.org/s/nipakanatik/page/principes-gestion).
+- Conception et rédaction d'un guide de vulgarisation sur la gouvernance des données, destiné au comité éthique de Nipakanatik.
+- Réalisation d'une étude sur les représentations attachées à la gouvernance de l'information chez les membres de Nipakanatik. Rédaction d'un rapport de recherche pour la direction de Minwashin.
 
 `2022`
 __Auxiliaire de recherche__, Université de Montréal
 
-- Recherche documentaire et élaboration d'une stratégie de recension des écrits pour Marie Thériault, professeure agrégé à la Faculté des sciences de l'éducation de l'Université de Montréal, sur l'état de la langue française en enseignement supérieur.
-- Gestion d'une bibliothèque virtuelle contenant plus d'une centaine de documents, incluant la création de métadonnées à des fins de classification et de description. 
+- Recherche documentaire et rédaction d'une stratégie de recension des écrits pour Marie Thériault (professeure agrégé, UdeM), dans le cadre d'une étude du [LIRES](https://www.lires.ca/) sur la place du français en enseignement supérieur. La stratégie de recension des écrits est devenue la section [« Méthode générale de recherche » du rapport de recherche _La place du françcais en enseignement supérieur_](https://documentation.lacsq.org/in/documentViewer.xhtml?id=1e180c36-2393-446f-bde9-9af08649fafc&locale=fr&file=/in/rest/annotationSVC/DownloadWatermarkedAttachment/attach_upload_94ec85f8-e51f-4d1c-b129-76e952240280#%5B%7B%22num%22%3A31%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C68%2C234%2C0%5D).
+- Rédaction d'un rapport sur la découvrabilité de la recherche sur l'état du français en enseignement supérieur. Ce rapport est devenu la section [« Éléments d'analyse globale et recommendations » du rapport de recherche _La place du françcais en enseignement supérieur_](https://documentation.lacsq.org/in/documentViewer.xhtml?id=1e180c36-2393-446f-bde9-9af08649fafc&locale=fr&file=/in/rest/annotationSVC/DownloadWatermarkedAttachment/attach_upload_94ec85f8-e51f-4d1c-b129-76e952240280#%5B%7B%22num%22%3A85%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C84%2C379%2C0%5D).
+- Gestion de la bibliothèque de références de Marie Thériault, avec _Zotero_. Création de métadonnées à des fins de classification et d'annotation.
 
 `2021`
 __Adjoint juridique__, Alinéa Notaires
@@ -61,23 +60,23 @@ __Adjoint juridique__, Alinéa Notaires
 `2023`
 __Congrès de l'Acfas__
 
-- Présentation, avec Julie Lise Simard, de la gouvernance des données à Minwashin, dans le cadre du colloque [« Entre conformité et stratégie : évolution des pratiques de gouvernance de l’information dans les organisations »](https://www.acfas.ca/evenements/congres/programme-preliminaire/300/301) au congrès de l'Acfas.
+- Conférence, avec Julie Lise Simard (archiviste), sur la gouvernance des données à Minwashin, dans le cadre du colloque [« Entre conformité et stratégie : évolution des pratiques de gouvernance de l’information dans les organisations »](https://www.acfas.ca/evenements/congres/programme-preliminaire/300/301), au 90e congrès de l'Acfas.
 
 `2023`
 __Francolloque__
 
-- Présentation, avec Marie Thériault, professeure agrégé à la Faculté des sciences de l'éducation de l'Université de Montréal, d'une étude sur l'état de la langue française en enseignement supérieur, à la Grande bibliothèque de Montréal. La présentation a eu lieu dans le cadre d'un [colloque](https://francolloque.lacsq.org/programmation/) sur la place du français dans les universités et les cégeps.
+- Présentation, avec Olivier Bégin-Caouette (professeur adjoint, UdeM), Alexandre Beaupré-Lavallé (professeur adjoint, UdeM), Sylvain Marois (chargé de cours, ULaval), Cathia Papi (professeure titulaire, TELUQ) et Marie Thériault (professeure agrégée, UdeM), du rapport de recherche [_La place du françcais en enseignement supérieur_](https://documentation.lacsq.org/in/documentViewer.xhtml?id=1e180c36-2393-446f-bde9-9af08649fafc&locale=fr&file=/in/rest/annotationSVC/DownloadWatermarkedAttachment/attach_upload_94ec85f8-e51f-4d1c-b129-76e952240280), dans le cadre du [premier Francolloque](https://francolloque.lacsq.org/programmation/).
 
 `2022`
 __Programme BiblioTECH__
 
 - Participation à une formation continue sur _Excel_, _Git_ et _GitHub_, _OpenRefine_, _Python_.
-- Présentation de l'édition 2023 du programme aux étudiants de l'École de biblothéconomie et des sciences de l'information, à l'Université de Montréal.
+- Présentation, avec Clara Turp (bibliothécaire), de l'édition 2023 du programme à l'École de biblothéconomie et des sciences de l'information (UdeM).
 
 ## Distinctions
 
 `2022`
-__Bourse de la Faculté des arts et des sciences de l'Université de Montréal__, Pour la participation au projet _Minwashin_, 5,000$ CDN.
+__Bourse de la Faculté des arts et des sciences de l'Université de Montréal__, pour la participation au projet _Nipakanatik_, 5,000$ CDN.
 
 `2017`
 __Bourse d'excellence à l'admission de l'Université Laval__, pour l'excellence scolaire, 1,000$ CDN.
@@ -87,6 +86,6 @@ __Bourse d'excellence de la Fondation du Cégep de Sainte-Foy__, pour l'excellen
 
 <!-- ### Footer
 
-Last updated: 2022 -->
+Last updated: 2023 -->
 
 
