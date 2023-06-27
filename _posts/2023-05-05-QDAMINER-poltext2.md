@@ -18,7 +18,7 @@ D’aussi hauts taux de précision ont de quoi surprendre, considérant la petit
 
 En effet, après s’être félicité de la qualité des résultats obtenus, nous avons souhaité étudier les erreurs commises par l'intelligence artificielle, avec l’espoir qu’elles relèveraient des similarités entre certains partis politiques. Prenant exemple du [travail de Dominic Forest](http://dominicforest.me/fed2015/2015/10/15/des-machines-et-des-mots-les-partis-sont-ils-coherents/), nous avons donc observé les matrices de confusion extraites de nos expérimentations.
 
-![image](https://user-images.githubusercontent.com/110431473/236585579-d2b57bcf-bc10-455c-b7d2-953e4a281453.png)
+<iframe src='https://flo.uri.sh/visualisation/14270493/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/14270493/?utm_source=embed&utm_campaign=visualisation/14270493' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
 __La C.A.Q. et le P.L.Q. : en lutte pour être le « parti de l'économie »__
 
