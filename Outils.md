@@ -3,11 +3,7 @@ layout: page
 menuorder: 4
 menutitle: Outils
 ---
-
-## Table des matières
-
-1. [Corpus et jeux de données](##Corpus-et-jeux-de-données)
-3. [Logiciels](##Logiciels)
+# Outils
 
 ## Corpus et jeux de données
 
@@ -23,7 +19,7 @@ menutitle: Outils
 
 ### Canada
 - [Élections Canada](https://www.elections.ca/content.aspx?section=fin&dir=oda&document=index&lang=f) pour le financement politique.
-- [Chambre des communes] pour les dépenses des députés et les votes en chambre.
+- [Chambre des communes](https://www.noscommunes.ca/fr/donnees-ouvertes) pour les dépenses des députés et les votes en chambre.
 - [PolText](https://www.poltext.org/) pour les plateformes électorales et les discours du budget.
 - [Élections Québec](https://www.dgeq.org/index.html) pour les cartes électorales et les sections de vote.
 
