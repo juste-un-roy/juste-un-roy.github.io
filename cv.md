@@ -1,5 +1,5 @@
 ---
-layout: resume
+layout: page
 menuorder: 2
 menutitle: CV
 ---
