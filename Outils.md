@@ -3,7 +3,6 @@ layout: page
 menuorder: 4
 menutitle: Outils
 ---
-# Outils pour la recherche numérique
 
 ## Table des matières
 
