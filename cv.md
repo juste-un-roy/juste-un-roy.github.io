@@ -1,12 +1,10 @@
 ---
-layout: page
+layout: resume
 menuorder: 2
 menutitle: CV
 ---
 
-## Justin Roy
-
-Bibliothécaire-étudiant à l'École de Technologie Supérieure
+# Justin Roy
 
 ## Éducation
 
