@@ -29,19 +29,16 @@ menutitle: Outils
 
 ### Sciences humaines et sociales
 
-- [BANQ numérique](https://numerique.banq.qc.ca/patrimoine/) pour des revues, des articles de journeaux et des affiches du Québec.
+- [BANQ numérique](https://numerique.banq.qc.ca/patrimoine/) pour des revues et des articles de journeaux du Québec.
 - [Advitam](https://advitam.banq.qc.ca/) pour l'histoire du Québec.
 - [HAL SHS](https://shs.hal.science/browse/domain/domain/shs) pour des articles et des thèses en français.
 - [DOAJ](https://doaj.org/) pour des articles en anglais.
-- [BNF](https://data.bnf.fr/fr/) pour des métadonnées sur des auteurs ou autrices, sur des périodes ou sur des lieux.
-- [Internet Archive](https://archive.org/) pour un peu tout et n'importe quoi.
 
 ## Logiciels
 
 ### Moissonnage
 
 - [DownThemAll!](https://www.downthemall.net/) pour télécharger en vrac les fichiers sur une page.
-- [Scrapestorm](https://www.scrapestorm.com/) pour moissonner des pages en format TXT.
 
 ### Conversion de formats
 
@@ -52,9 +49,10 @@ menutitle: Outils
 
 ### Fouille de texte
 
-- [Orange Data Mining](https://orangedatamining.com) pour la classification automatique (attention, le logiciel est un peu lent).
+- [Orange Data Mining](https://orangedatamining.com) pour la classification automatique (attention, le logiciel est lent).
 - [AntConc](https://www.laurenceanthony.net/software/antconc/) pour l'analyse de cooccurrences.
 
-### Visualisation de données
+### Diffusion
 
-- [Flourish](https://flourish.studio/) (logiciel propriétaire)
+- [Flourish](https://flourish.studio/) et [DataWrapper](https://www.datawrapper.de/) pour les figures.
+- [Markdown](https://www.markdownguide.org/) pour l'édition.
