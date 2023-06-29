@@ -54,5 +54,5 @@ menutitle: Outils
 
 ### Diffusion
 
-- [Flourish](https://flourish.studio/) et [DataWrapper](https://www.datawrapper.de/) pour les figures.
+- [Flourish](https://flourish.studio/) et [DataWrapper](https://www.datawrapper.de/) pour les figures. 
 - [Markdown](https://www.markdownguide.org/) pour l'édition.
