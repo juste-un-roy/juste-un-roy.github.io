@@ -17,7 +17,7 @@ menutitle: Outils
 
 ### Science politique
 
-### Canada
+#### Canada
 - [Élections Canada](https://www.elections.ca/content.aspx?section=fin&dir=oda&document=index&lang=f) pour le financement politique.
 - [Chambre des communes](https://www.noscommunes.ca/fr/donnees-ouvertes) pour les dépenses des députés et les votes en chambre.
 - [PolText](https://www.poltext.org/) pour les plateformes électorales et les discours du budget.
