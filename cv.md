@@ -18,6 +18,14 @@ Université Laval
 ## Expériences professionnelles
 
 `Présent`
+__Chargé de projet__, Minwashin
+
+- Coordination de la bibliothèque numérique Nipakanatik, en collaboration avec l'archiviste Julie Lise Simard.
+- Coordination de la numérisation des archives détenues par les communautés anicinabek au Nord du Québec. Prises de contact avec les membres des communautés.
+- Participation aux rencontres de développement de l'organisation.
+- Gestion financière du projet et rédaction de demandes de subvention.
+
+`2023`
 __Stagiaire__, Service des bibliothèques de l'Université du Québec à Montréal (UQÀM)
 
 - Création de contenus pour le [portail web du Centre des humanités numériques](https://recherchenumerique.uqam.ca/). Conception, rédaction et mise en page de formations écrites sur la visualisation de données (_VOSViewer_, _Datawrapper_) et la fouille de texte (_Orange Data Mining_, _AntConc_), avec _WordPress_. Conception d'un gabarit pour les bibliothécaires.
