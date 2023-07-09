@@ -5,7 +5,9 @@ menutitle: Accueil
 menuorder: 1
 ---
 
-Je suis bibliothécaire-étudiant à l'École de technologie supérieure (ÉTS) et membre étudiant de la Corporation des bibliothécaires du Québec. Je possède des expériences en bibliothèques universitaires, une aisance avec le public et un intérêt marqué pour l'implantation des technologies de l'information dans le cadre de la recherche. Au cours de mes années d'étude à l'École de bibliothéconomie et des sciences de l'information de l'Université de Montréal (EBSI), j'ai eu la chance de travailler sur des projets aussi passionnants que novateurs, notamment avec l'organisme anicinabe Minwahsin et le Centre pour les humanités numériques des Services des bibliothèques de l'Université du Québec à Montréal (UQÀM). À cet effet, je vous invite à consulter les réalisations qui figurent à mon [portfolio](https://juste-un-roy.github.io/portfolio/).
+Je suis chargé de projet à Minwashin et membre titulaire de la Corporation des bibliothécaires du Québec. J’ai des expériences en bibliothèques universitaires et en milieux autochtones, de l’aisance avec les outils numériques et un intérêt marqué pour le soutien à la recherche.
+
+Au cours des dernières années, j'ai eu la chance de travailler sur des projets aussi passionnants que novateurs, notamment la bibliothèque numérique Nipakanatik et le Centre des humanités numériques de l'Université du Québec à Montréal (UQÀM). Pour en savoir plus sur mes projets en recherche numérique, consultez les réalisations qui figurent à mon [portfolio](https://juste-un-roy.github.io/portfolio/).
 
 ## Intérêts:
 
