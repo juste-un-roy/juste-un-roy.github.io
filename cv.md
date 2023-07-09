@@ -32,7 +32,7 @@ __Stagiaire__, Service des bibliothèques de l'Université du Québec à Montré
 - Rédaction d’un compte-rendu de la [Journée de réseautage sur les humanités numériques à l'UQÀM](https://evenements.uqam.ca/evenements/journee-de-reseautage-sur-les-humanites-numeriques-a-l-uqam/25174?date=2023-05-03_09-30-00).
 - Classification de la bibliothèque de références sur les humanités numériques du Service des bibliothèques de l'UQÀM, avec _Zotero_.
 
-`2022-présent`
+`2022-2023`
 __Bibliothécaire-étudiant__, École de technologie supérieure (ÉTS)
 
 - Réalisation d'une étude bibliométrique sur les revues de la littérature publiées par des chercheurs et chercheuses de l'ÉTS. [Classification des documents](https://juste-un-roy.github.io/blog/FT-ETS/) par type de revue de la littérature avec un algorithme programmé dans _Jupyter Hub_. Présentation du projet à l'interne pour faire valoir la pertinence de l'automatisation des tâches.
@@ -77,6 +77,7 @@ __Programme BiblioTECH__
 
 - Participation à une formation continue sur _Excel_, _Git_ et _GitHub_, _OpenRefine_, _Python_.
 - Présentation, avec Clara Turp (bibliothécaire), de l'édition 2023 du programme à l'École de biblothéconomie et des sciences de l'information (UdeM).
+- Traduction des diapositives en français pour l'édition 2023 du programme.
 
 ## Distinctions
 
