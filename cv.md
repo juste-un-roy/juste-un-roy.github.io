@@ -20,9 +20,10 @@ Université Laval
 `Présent`
 __Chargé de projet__, Minwashin
 
-- Coordination de la [bibliothèque numérique Nipakanatik](https://nipakanatik.org/s/nipakanatik/page/accueil), en collaboration avec l'archiviste Julie Lise Simard.
-- Coordination de la numérisation des archives détenues par les communautés anicinabek au Nord du Québec. Prises de contact avec les membres des communautés.
-- Participation aux rencontres de développement de l'organisation.
+- Gestion de la [bibliothèque numérique Nipakanatik](https://nipakanatik.org/s/nipakanatik/page/accueil), avec _Omeka S_.
+- Coordination de la [numérisation des archives détenues par les communautés anicinabek au Nord du Québec](https://ici.radio-canada.ca/espaces-autochtones/2017722/anishinaabe-histoire-archives-numeriques-minwashin).
+- Mise en place d'un comité éthique de gardiens et gardiennes des savoirs traditionnels.
+- Rencontres de consultation avec des porteurs culturels/porteuses culturelles.
 - Gestion financière du projet et rédaction de demandes de subvention.
 
 `2023`
