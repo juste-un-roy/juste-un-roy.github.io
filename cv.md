@@ -64,6 +64,11 @@ __Adjoint juridique__, Alinéa Notaires
 ## Implications hors-bibliothèque ##
 
 `2023`
+__Journées Omeka S__
+
+- Conférence, avec Maurice J. Kistabish (professeur à temps partiel), sur l'application d'Omeka S dans le projet Nipakanatik, dans le cadre du congrès [« Organiser et coopérer »](https://omeka.sciencesconf.org/resource/page/id/16), aux Journées Omeka S de Paris. 
+
+`2023`
 __Congrès de l'Acfas__
 
 - Conférence, avec Julie Lise Simard (archiviste), sur la gouvernance des données à Minwashin, dans le cadre du colloque [« Entre conformité et stratégie : évolution des pratiques de gouvernance de l’information dans les organisations »](https://www.acfas.ca/evenements/congres/programme-preliminaire/300/301), au 90e congrès de l'Acfas.
