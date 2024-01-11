@@ -20,11 +20,12 @@ Université Laval
 `Présent`
 __Chargé de projet__, Minwashin
 
-- Gestion de la [bibliothèque numérique Nipakanatik](https://nipakanatik.org/s/nipakanatik/page/accueil), avec _Omeka S_.
-- Coordination de la [numérisation des archives détenues par les communautés anicinabek au Nord du Québec](https://ici.radio-canada.ca/espaces-autochtones/2017722/anishinaabe-histoire-archives-numeriques-minwashin).
-- Mise en place d'un comité éthique de gardiens et gardiennes des savoirs traditionnels.
+- Gestion de la [bibliothèque numérique Nipakanatik](https://nipakanatik.org/s/nipakanatik/page/accueil).
+- Coordination d'une tournée de [numérisation des archives détenues par les communautés anicinabek au Nord du Québec](https://ici.radio-canada.ca/espaces-autochtones/2017722/anishinaabe-histoire-archives-numeriques-minwashin).
+- Mise en place d'un comité éthique de gardiens et gardiennes des connaissances.
+- Gestion d'une équipe responsable du traitement documentaire des archives anicinabek.
 - Rencontres de consultation avec des porteurs culturels/porteuses culturelles.
-- Gestion financière du projet et rédaction de demandes de subvention.
+- Rédaction de demandes de subvention.
 
 `2023`
 __Stagiaire__, Service des bibliothèques de l'Université du Québec à Montréal (UQÀM)
