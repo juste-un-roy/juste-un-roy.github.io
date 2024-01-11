@@ -21,7 +21,7 @@ Université Laval
 __Chargé de projet__, Minwashin
 
 - Gestion de la [bibliothèque numérique Nipakanatik](https://nipakanatik.org/s/nipakanatik/page/accueil).
-- Coordination d'une tournée de [numérisation des archives détenues par les communautés anicinabek au Nord du Québec](https://ici.radio-canada.ca/espaces-autochtones/2017722/anishinaabe-histoire-archives-numeriques-minwashin).
+- Coordination d'une [tournée de numérisation des archives détenues par les communautés anicinabek au Nord du Québec](https://ici.radio-canada.ca/espaces-autochtones/2017722/anishinaabe-histoire-archives-numeriques-minwashin).
 - Mise en place d'un comité éthique de gardiens et gardiennes des connaissances.
 - Gestion d'une équipe responsable du traitement documentaire des archives anicinabek.
 - Rencontres de consultation avec des porteurs culturels/porteuses culturelles.
@@ -37,14 +37,14 @@ __Stagiaire__, Service des bibliothèques de l'Université du Québec à Montré
 `2022-2023`
 __Bibliothécaire-étudiant__, École de technologie supérieure (ÉTS)
 
-- Réalisation d'une étude bibliométrique sur les revues de la littérature publiées par des chercheurs et chercheuses de l'ÉTS. [Classification des documents](https://juste-un-roy.github.io/blog/FT-ETS/) par type de revue de la littérature avec un algorithme programmé dans _Jupyter Hub_. Présentation du projet à l'interne pour faire valoir la pertinence de l'automatisation des tâches.
+- Réalisation d'une étude bibliométrique sur les revues de la littérature publiées par des chercheurs et chercheuses de l'ÉTS. [Classification des documents](https://juste-un-roy.github.io/blog/FT-ETS/) avec un algorithme programmé dans _Jupyter Hub_. Présentation du projet à l'interne pour faire valoir la pertinence de l'automatisation des tâches.
 - Conception, rédaction et mise en page d'un guide thématique sur la fouille de textes, avec _Libguide_.
 - Référence, en présentiel et en ligne, avec _LibAnswer_ et _LibInsight_.
 
 `2022-2023`
 __Stagiaire__, Minwashin
 
-- Conception et rédaction d'une politique de gestion documentaire (GDA) pour la [bibliothèque numérique Nipakanatik](https://dev.nipakanatik.org/s/nipakanatik/page/accueil), en collaboration avec Julie Lise Simard (archiviste) et Maurice Kistabish (médiateur culturel). La politique couvre les aspects éthiques et légaux de la recherche avec les peuples autochtones, décrit les conditions d'utilisation et d'accès aux documents et définit les rôles et responsabilités des acteurs et actrices du projet. [Vous pouvez en lire un extrait ici](https://dev.nipakanatik.org/s/nipakanatik/page/principes-gestion).
+- Conception et rédaction d'une politique de gestion documentaire (GDA) pour la [bibliothèque numérique Nipakanatik](https://dev.nipakanatik.org/s/nipakanatik/page/accueil), en collaboration avec Julie Lise Simard (archiviste) et Maurice J. Kistabish (professeur à l'Université d'Ottawa). La politique couvre les aspects éthiques et légaux de la recherche avec les peuples autochtones, décrit les conditions d'utilisation et d'accès aux documents et définit les rôles et responsabilités des acteurs et actrices du projet.
 - Conception et rédaction d'un guide de vulgarisation sur la gouvernance des données, destiné au comité éthique de Nipakanatik.
 - Réalisation d'une étude sur les représentations attachées à la gouvernance de l'information chez les membres de Nipakanatik. Rédaction d'un rapport de recherche pour la direction de Minwashin.
 
@@ -67,7 +67,7 @@ __Adjoint juridique__, Alinéa Notaires
 `2023`
 __Journées Omeka S__
 
-- Conférence, avec Maurice J. Kistabish (professeur à temps partiel), sur l'application d'Omeka S dans le projet Nipakanatik, dans le cadre du congrès [« Organiser et coopérer »](https://omeka.sciencesconf.org/resource/page/id/16), aux Journées Omeka S de Paris. 
+- Conférence, avec Maurice J. Kistabish (professeur à l'Université d'Ottawa), sur l'application d'Omeka S au projet Nipakanatik, dans le cadre du congrès [« Organiser et coopérer »](https://omeka.sciencesconf.org/resource/page/id/16), aux Journées Omeka S de Paris. 
 
 `2023`
 __Congrès de l'Acfas__
