@@ -7,8 +7,8 @@ logo: # filename of a logo image that has been placed into your images directory
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Justin Roy
-  avatar: bio-photo.jpg
-  bio: Bibliothécaire-étudiant à l'École de Technologie Supérieure (ÉTS)
+  avatar:
+  bio: Chargé de projet à Minwashin
   email: roy.justin@pm.me
   # Do not include the @ symbol in your Twitter username
   twitter: #username
