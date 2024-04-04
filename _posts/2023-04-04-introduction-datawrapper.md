@@ -12,6 +12,7 @@ Nous avons utilisé Datawrapper pour créer deux figures pouvant être insérée
 
 <div style="min-height:307px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/3LZIH/embed.js?v=1" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/3LZIH/full.png" alt="" /></noscript></div>
 
+
 La deuxième figure montre le taux de participation aux mêmes élections par circonscription.
 
 <div style="min-height:803px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/S4bpZ/embed.js?v=1" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/S4bpZ/full.png" alt="" /></noscript></div>
