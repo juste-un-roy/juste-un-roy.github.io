@@ -20,10 +20,11 @@ Université Laval
 `2023-Présent`
 __Chargé de projet__, Minwashin
 
-- Gestion de la [base de données Nipakanatik](https://nipakanatik.org/s/nipakanatik/page/accueil).
+- Gestion de la base de données [Nipakanatik](https://nipakanatik.org/s/nipakanatik/page/accueil).
 - Coordination de [tournées de numérisation des archives dans les 9 communautés anicinabe du Québec](https://ici.radio-canada.ca/espaces-autochtones/2017722/anishinaabe-histoire-archives-numeriques-minwashin).
 - Création et animation d'un comité éthique composé de personnes de l'externe.
 - Coordination de la création d'un thésaurus en _anicinabemowin_.
+- Rapatriement d'archives auprès de musées et de gouvernements.
 - Développement de dispositifs pour la mise en valeur des archives.
 - Coordination et réalisation d'entrevues avec des aîné-es.
 - Animation de cercles de réflexion avec des aîné-es.
@@ -46,8 +47,8 @@ __Bibliothécaire-étudiant__, École de technologie supérieure (ÉTS)
 `2022-2023`
 __Stagiaire__, Minwashin
 
-- Rédaction d'une politique de gestion pour la [base de données Nipakanatik](https://dev.nipakanatik.org/s/nipakanatik/page/accueil), en collaboration avec Maurice J. Kistabish (professeur à l'Université d'Ottawa).
-- Rédaction d'un guide de vulgarisation sur la gouvernance des données, destiné au comité éthique de Nipakanatik.
+- Rédaction d'une politique de gestion pour la base de données [Nipakanatik](https://dev.nipakanatik.org/s/nipakanatik/page/accueil), en collaboration avec Maurice J. Kistabish (professeur à l'Université d'Ottawa).
+- Rédaction d'un guide de vulgarisation sur la gouvernance des données destiné à des aîné-es.
 - Réalisation d'une recherche sur les représentations attachées à la gouvernance de l'information chez les membres de Minwashin.
 
 `2022`
@@ -65,22 +66,7 @@ __Comité inter-Nations sur les archives autochtones__
 
 `2024`
 __Rassemblement annuel pour la transmission, l'expression et la préservation des patrimoines autochtones__
-- Participation au comité d'organisation de l'événement.
-
-`2023`
-__Journées Omeka S__
-
-- Présentation de la base de données Nipakantik, avec Maurice J. Kistabish (professeur à l'Université d'Ottawa), au congrès [« Organiser et coopérer »](https://omeka.sciencesconf.org/resource/page/id/16) des Journées Omeka S à Paris. 
-
-`2023`
-__Congrès de l'Acfas__
-
-- Présentation de la base de données Nipakantik, avec Julie Lise Simard (archiviste), dans le cadre du colloque [« Entre conformité et stratégie : évolution des pratiques de gouvernance de l’information dans les organisations »](https://www.acfas.ca/evenements/congres/programme-preliminaire/300/301), au 90e congrès de l'Acfas.
-
-`2023`
-__Francolloque__
-
-- Présentation, avec Olivier Bégin-Caouette (professeur adjoint, UdeM), Alexandre Beaupré-Lavallé (professeur adjoint, UdeM), Sylvain Marois (chargé de cours, ULaval), Cathia Papi (professeure titulaire, TELUQ) et Marie Thériault (professeure agrégée, UdeM), du rapport de recherche [_La place du françcais en enseignement supérieur_](https://documentation.lacsq.org/in/documentViewer.xhtml?id=1e180c36-2393-446f-bde9-9af08649fafc&locale=fr&file=/in/rest/annotationSVC/DownloadWatermarkedAttachment/attach_upload_94ec85f8-e51f-4d1c-b129-76e952240280), dans le cadre du [Francolloque](https://francolloque.lacsq.org/programmation/).
+- Implication au sein du comité d'organisation.
 
 `2022-2023`
 __Programme BiblioTECH__
@@ -88,6 +74,23 @@ __Programme BiblioTECH__
 - Participation à une formation continue sur _Excel_, _Git_ et _GitHub_, _OpenRefine_, _Python_.
 - Présentation, avec Clara Turp (bibliothécaire), du programme à l'École de biblothéconomie et des sciences de l'information (UdeM).
 - Traduction du contenu des formations en français pour l'édition 2023.
+
+## Conférences ##
+
+`2023`
+__Journées Omeka S__
+
+- Présentation de la base de données [Nipakantik](https://nipakanatik.org/s/nipakanatik/page/accueil), avec Maurice J. Kistabish (professeur à l'Université d'Ottawa), au congrès [« Organiser et coopérer »](https://omeka.sciencesconf.org/resource/page/id/16) des Journées Omeka S à Paris. 
+
+`2023`
+__Congrès de l'Acfas__
+
+- Présentation de la base de données [Nipakanatik](https://nipakanatik.org/s/nipakanatik/page/accueil), avec Julie Lise Simard (archiviste), dans le cadre du colloque [« Entre conformité et stratégie : évolution des pratiques de gouvernance de l’information dans les organisations »](https://www.acfas.ca/evenements/congres/programme-preliminaire/300/301), au 90e congrès de l'Acfas.
+
+`2023`
+__Francolloque__
+
+- Présentation, avec Olivier Bégin-Caouette (professeur adjoint, UdeM), Alexandre Beaupré-Lavallé (professeur adjoint, UdeM), Sylvain Marois (chargé de cours, ULaval), Cathia Papi (professeure titulaire, TELUQ) et Marie Thériault (professeure agrégée, UdeM), du rapport de recherche [_La place du françcais en enseignement supérieur_](https://documentation.lacsq.org/in/documentViewer.xhtml?id=1e180c36-2393-446f-bde9-9af08649fafc&locale=fr&file=/in/rest/annotationSVC/DownloadWatermarkedAttachment/attach_upload_94ec85f8-e51f-4d1c-b129-76e952240280), dans le cadre du [Francolloque](https://francolloque.lacsq.org/programmation/).
 
 ## Distinctions
 
