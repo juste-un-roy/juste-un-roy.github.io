@@ -33,7 +33,7 @@ __Chargé de projet__, Minwashin
 `2023`
 __Stagiaire__, Service des bibliothèques de l'Université du Québec à Montréal (UQÀM)
 
-- Création de formations pour le [site web _Recherche numérique_](https://recherchenumerique.uqam.ca/) : visualisation de données (_VOSViewer_, _Datawrapper_) et fouille de texte (_Orange Data Mining_, _AntConc_).
+- Création de formations pour le site web [_Recherche numérique_](https://recherchenumerique.uqam.ca/) : visualisation de données (_VOSViewer_, _Datawrapper_) et fouille de texte (_Orange Data Mining_, _AntConc_).
 - Rédaction d’un compte-rendu de la [Journée de réseautage sur les humanités numériques à l'UQAM](https://evenements.uqam.ca/evenements/journee-de-reseautage-sur-les-humanites-numeriques-a-l-uqam/25174?date=2023-05-03_09-30-00).
 - Développement de la bibliothèque de références sur les humanités numériques du Service des bibliothèques.
 
