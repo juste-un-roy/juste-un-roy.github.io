@@ -32,7 +32,7 @@ __Chargé de projet__, Minwashin
 - Rédaction de demandes de financement
 
 `2023`
-__Stagiaire__, Service des bibliothèques de l'Université du Québec à Montréal (UQÀM)
+__Stagiaire__, Service des bibliothèques de l'Université du Québec à Montréal (UQAM)
 
 - Création de formations pour le site web [_Recherche numérique_](https://recherchenumerique.uqam.ca/) : visualisation de données (_VOSViewer_, _Datawrapper_) et fouille de texte (_Orange Data Mining_, _AntConc_)
 - Animation d'un atelier sur la création de figures web interactives (_Datawrapper_)
