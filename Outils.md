@@ -7,18 +7,18 @@ menutitle: Outils
 
 ## Corpus et jeux de données
 
-### Gouvernements et organisations publiques
+### Gouvernements
 - [Données Canada](https://ouvert.canada.ca/fr/donnees-ouvertes)
 - [Statistique Canada](https://www.statcan.gc.ca/)
 - [Données Québec](https://www.donneesquebec.ca/)
   
 ### Politique
-### Québec
+#### Québec
 - [Résultats électoraux](https://dgeq.org/archives.html)
 - [Circonscriptions](https://dgeq.org/donnees.html)
 - [Registre des votes de l'Assemblée nationale](https://www.assnat.qc.ca/fr/travaux-parlementaires/registre-des-votes/index.html)
 - [Programmes et slogans politiques](https://www.bibliotheque.assnat.qc.ca/guides/fr/3748-programmes-et-slogans-politiques-au-quebec?ref=473)
-### Canada
+#### Canada
 - [Résultats électoraux](https://www.elections.ca/content.aspx?section=ele&document=index&dir=pas/44ge&lang=f)
 - [Circonscriptions](https://www.elections.ca/content.aspx?section=res&dir=cir/list&document=index338&lang=f#list)
 - [Registre des votes de la Chambre des Communes](https://www.noscommunes.ca/Members/fr/votes)
