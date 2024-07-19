@@ -21,7 +21,7 @@ Université Laval
 __Chargé de projet__, Minwashin
 
 - Gestion de la base de données [Nipakanatik](https://nipakanatik.org/s/nipakanatik/page/accueil)
-- Coordination de [tournées de numérisation des archives dans les 9 communautés anicinabe du Québec](https://ici.radio-canada.ca/espaces-autochtones/2017722/anishinaabe-histoire-archives-numeriques-minwashin)
+- Coordination de [tournées de numérisation d'archives dans les 9 communautés anicinabe du Québec](https://ici.radio-canada.ca/espaces-autochtones/2017722/anishinaabe-histoire-archives-numeriques-minwashin)
 - Création et animation d'un comité éthique composé d'aîné-es et de chercheurs anicinabe
 - Coordination de la création d'un thésaurus en _anicinabemowin_, en partenariat avec des aîné-es
 - Rapatriement d'archives auprès de musées et de gouvernements
