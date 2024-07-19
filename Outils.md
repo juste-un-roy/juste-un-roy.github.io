@@ -13,7 +13,7 @@ menutitle: Outils
 - [Données Québec](https://www.donneesquebec.ca/)
   
 ### Politique
-#### Québec
+### Québec
 - [Résultats électoraux](https://dgeq.org/archives.html)
 - [Circonscriptions](https://dgeq.org/donnees.html)
 - [Registre des votes de l'Assemblée nationale](https://www.assnat.qc.ca/fr/travaux-parlementaires/registre-des-votes/index.html)
