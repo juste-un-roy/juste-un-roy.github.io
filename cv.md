@@ -27,6 +27,7 @@ __Chargé de projet__, Minwashin
 - Rapatriement d'archives auprès de musées et de gouvernements
 - Développement de dispositifs pour la mise en valeur des archives autochtones
 - Réalisation d'entrevues avec des aîné-es
+- Description documentaire, avec _Omeka S_ 
 - Animation de cercles de réflexion avec des aîné-es
 - Rédaction de demandes de financement
 
@@ -34,14 +35,14 @@ __Chargé de projet__, Minwashin
 __Stagiaire__, Service des bibliothèques de l'Université du Québec à Montréal (UQÀM)
 
 - Création de formations pour le site web [_Recherche numérique_](https://recherchenumerique.uqam.ca/) : visualisation de données (_VOSViewer_, _Datawrapper_) et fouille de texte (_Orange Data Mining_, _AntConc_)
-- Animation d'un atelier sur la création de figures web interactives
+- Animation d'un atelier sur la création de figures web interactives (_Datawrapper_)
 - Rédaction d’un compte-rendu de la [Journée de réseautage sur les humanités numériques à l'UQAM](https://evenements.uqam.ca/evenements/journee-de-reseautage-sur-les-humanites-numeriques-a-l-uqam/25174?date=2023-05-03_09-30-00)
 - Développement de la bibliothèque de références sur les humanités numériques du Service des bibliothèques
 
 `2022-2023`
 __Bibliothécaire-étudiant__, École de technologie supérieure (ÉTS)
 
-- Réalisation d'une étude bibliométrique sur les revues de la littérature publiées par des chercheurs et chercheuses de l'ÉTS. Classification des documents avec un algorithme programmé dans _Jupyter Hub_
+- Analyse bibliométrique des revues de la littérature publiées par des chercheurs et chercheuses de l'ÉTS. Classification des documents avec un algorithme programmé en Python dans _Jupyter Hub_
 - Conception, rédaction et mise en page d'un guide thématique sur la fouille de textes, avec _Libguide_
 - Référence, en présentiel et en ligne, avec _LibAnswer_ et _LibInsight_
 
@@ -59,7 +60,7 @@ __Auxiliaire de recherche__, Université de Montréal (UdeM)
 - Rédaction d'un rapport sur la découvrabilité de la recherche sur l'état du français en enseignement supérieur. Le rapport est devenu la section [« Éléments d'analyse globale et recommandations » du rapport de recherche _La place du français en enseignement supérieur_](https://documentation.lacsq.org/in/documentViewer.xhtml?id=1e180c36-2393-446f-bde9-9af08649fafc&locale=fr&file=/in/rest/annotationSVC/DownloadWatermarkedAttachment/attach_upload_94ec85f8-e51f-4d1c-b129-76e952240280#%5B%7B%22num%22%3A85%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C84%2C379%2C0%5D)
 - Gestion de la bibliothèque de références de Marie Thériault, avec _Zotero_. Création de termes d'indexation adaptés au projet
 
-## Implications ##
+## Implications
 
 `2024-Présent`
 __Comité inter-Nations sur les archives autochtones__
@@ -76,7 +77,13 @@ __Programme BiblioTECH__
 - Présentation, avec Clara Turp (bibliothécaire), du programme à l'École de biblothéconomie et des sciences de l'information (UdeM)
 - Traduction du contenu des formations en français pour l'édition 2023
 
-## Conférences ##
+## Publications
+
+`2024`
+__Archives__
+- _Comprendre les archives autochtones comme des communs de la connaissance : Évolutions des pratiques de gouvernance de l'informartion d'une bibliothèque numérique anicinabe_, article co-écrit avec Ejinagosi Kistabish et Julie-Lise Simard
+
+## Conférences
 
 `2024`
 __Congrès de l'AAQ__
