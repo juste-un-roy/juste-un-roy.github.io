@@ -26,9 +26,9 @@ $border-color   : #9866a8;
 $basecolor 		  : #fff;
 $compcolor 		  : spin($basecolor, 180);
 $bordercolor    : #5e3883 ;
-$white          : #fff;
-$black          : #111;
-$accentcolor    : $white;
+$white          : #fff ;
+$black          : #000000;
+$accentcolor    : #fff ;
 
 /* buttons */
 $primary			: #9866a8;
@@ -38,25 +38,25 @@ $danger				: #00755e;
 $info				  : #308cbc;
 
 /* brands */
-$facebook-color     : #3b5998;
-$flickr-color       : #ff0084;
-$foursquare-color   : #0cbadf;
-$google-plus-color  : #dd4b39;
-$instagram-color    : #4e433c;
-$linkedin-color     : #4875b4;
-$pinterest-color    : #cb2027;
-$rss-color          : #fa9b39;
-$tumblr-color       : #2c4762;
-$twitter-color      : #55acee;
-$vimeo-color        : #1ab7ea;
-$youtube-color      : #ff3333;
+$facebook-color     : #fff;
+$flickr-color       : #fff;
+$foursquare-color   : #fff;
+$google-plus-color  : #fff;
+$instagram-color    : #fff;
+$linkedin-color     : #fff;
+$pinterest-color    : #fff;
+$rss-color          : #fff ;
+$tumblr-color       : #fff ;
+$twitter-color      : #fff ;
+$vimeo-color        : #fff ;
+$youtube-color      : #fff ;
 
 /* links */
 $linkcolor 		    :#9866a8 ;
 $link-color       : #9866a8 ;
-$linkcolorhover 	: darken($linkcolor, 10);
-$linkcolorvisited : darken($linkcolor, 10);
-$linkcolorfocus 	: darken($linkcolor, 10);
+$linkcolorhover 	: lighten($linkcolor, 10);
+$linkcolorvisited : darken($linkcolor, 1);
+$linkcolorfocus 	: ligthen($linkcolor, 10);
 
 /*
    Breakpoints
