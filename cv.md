@@ -20,14 +20,14 @@ Université Laval
 `2023-Présent`
 __Chargé de projet__, Minwashin
 
-- Gestion de la base de données [Nipakanatik](https://nipakanatik.org/s/nipakanatik/page/accueil)
+- Gestion de la bibliothèque numérique [Nipakanatik](https://nipakanatik.org/s/nipakanatik/page/accueil)
 - Coordination de [tournées de numérisation d'archives dans les 9 communautés anicinabe du Québec](https://ici.radio-canada.ca/espaces-autochtones/2017722/anishinaabe-histoire-archives-numeriques-minwashin)
-- Création et animation d'un comité éthique composé d'aîné-es et de chercheurs anicinabe
-- Coordination de la création d'un thésaurus en _anicinabemowin_, en partenariat avec des aîné-es
+- Création et animation d'un comité de gouvernance composé d'aîné-es et de chercheur-euses anicinabe
+- Co-création d'un thésaurus en _anicinabemowin_ avec des aîné-es
 - Rapatriement d'archives auprès de musées et de gouvernements
-- Développement de dispositifs pour la mise en valeur des archives autochtones
-- Réalisation d'entrevues avec des aîné-es
-- Description documentaire, avec _Omeka S_ 
+- Co-création d'ateliers de médiation culturelle à partir d'archives, avec des aîné-es
+- Entrevues et enregistrements de récits oraux avec des aîné-es
+- Description et indexation d'archives avec _Omeka S_
 - Animation de cercles de réflexion avec des aîné-es
 - Rédaction de demandes de financement
 
@@ -64,11 +64,11 @@ __Auxiliaire de recherche__, Université de Montréal (UdeM)
 
 `2024-Présent`
 __Comité inter-Nations sur les archives autochtones__
-- Participation mensuelle à des rencontres avec des bibliothécaires, archivistes et aîné-es oeuvrant en archivistique autochtone
+- Participation trimensuelle à des rencontres avec des bibliothécaires, archivistes et aîné-es oeuvrant en archivistique autochtone
 
 `2024`
 __Rassemblement annuel pour la transmission, l'expression et la préservation des patrimoines autochtones__
-- Participation au comité d'organisation
+-  Comité d'organisation
 
 `2022-2023`
 __Programme BiblioTECH__
