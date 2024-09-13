@@ -18,17 +18,17 @@ $alt-font: $base-font;
    Colors
    ========================================================================== */
 
-$bodycolor      : #000000;
+$bodycolor      : #fff;
 $body-color     : $bodycolor;
-$textcolor      : #fff;
+$textcolor      : #000000;
 $text-color     : $textcolor;
 $border-color   : #9866a8;
-$basecolor 		  : #fff;
+$basecolor 		  : #000000 ;
 $compcolor 		  : spin($basecolor, 180);
 $bordercolor    : #5e3883 ;
 $white          : #fff ;
 $black          : #000000;
-$accentcolor    : #fff ;
+$accentcolor    : #000000 ;
 
 /* buttons */
 $primary			: #9866a8;
@@ -38,18 +38,18 @@ $danger				: #5e3883;
 $info				  : #5e3883;
 
 /* brands */
-$facebook-color     : #fff;
-$flickr-color       : #fff;
-$foursquare-color   : #fff;
-$google-plus-color  : #fff;
-$instagram-color    : #fff;
-$linkedin-color     : #fff;
-$pinterest-color    : #fff;
-$rss-color          : #fff ;
-$tumblr-color       : #fff ;
-$twitter-color      : #fff ;
-$vimeo-color        : #fff ;
-$youtube-color      : #fff ;
+$facebook-color     : #000000 ;
+$flickr-color       : #000000 ;
+$foursquare-color   : #000000 ;
+$google-plus-color  : #000000;
+$instagram-color    : #000000;
+$linkedin-color     : #000000;
+$pinterest-color    : #000000;
+$rss-color          : #000000 ;
+$tumblr-color       : #000000 ;
+$twitter-color      : #000000 ;
+$vimeo-color        : #000000 ;
+$youtube-color      : #000000 ;
 
 /* links */
 $linkcolor 		    :#9866a8 ;
