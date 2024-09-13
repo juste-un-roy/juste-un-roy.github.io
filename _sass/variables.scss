@@ -18,12 +18,12 @@ $alt-font: $base-font;
    Colors
    ========================================================================== */
 
-$bodycolor      : #fff;
+$bodycolor      : linear-gradient(to bottom right, ##000000, #5e3883);
 $body-color     : $bodycolor;
-$textcolor      : #000000;
+$textcolor      : #fff;
 $text-color     : $textcolor;
 $border-color   : #9866a8;
-$basecolor 		  : #000000 ;
+$basecolor 		  : #fff ;
 $compcolor 		  : spin($basecolor, 180);
 $bordercolor    : #5e3883 ;
 $white          : #fff ;
@@ -31,32 +31,32 @@ $black          : #000000;
 $accentcolor    : #000000 ;
 
 /* buttons */
-$primary			: #5E3883;
-$success			: #5e3883;
+$primary			: #9866a8;
+$success			: #9866a8;
 $warning			: #9866a8 ;
-$danger				: #5e3883;
-$info				  : #5e3883;
+$danger				: #9866a8;
+$info				  : #9866a8;
 
 /* brands */
-$facebook-color     : #000000 ;
-$flickr-color       : #000000 ;
-$foursquare-color   : #000000 ;
-$google-plus-color  : #000000;
-$instagram-color    : #000000;
-$linkedin-color     : #000000;
-$pinterest-color    : #000000;
-$rss-color          : #000000 ;
-$tumblr-color       : #000000 ;
-$twitter-color      : #000000 ;
-$vimeo-color        : #000000 ;
-$youtube-color      : #000000 ;
+$facebook-color     : #fff ;
+$flickr-color       : #fff ;
+$foursquare-color   : #fff ;
+$google-plus-color  : #fff;
+$instagram-color    : #fff;
+$linkedin-color     : #fff ;
+$pinterest-color    : #fff ;
+$rss-color          : #fff ;
+$tumblr-color       : #fff ;
+$twitter-color      : #fff ;
+$vimeo-color        : #fff ;
+$youtube-color      : #fff ;
 
 /* links */
-$linkcolor 		    :#9866a8 ;
-$link-color       : #9866a8 ;
-$linkcolorhover 	: darken($linkcolor, 10);
+$linkcolor 		    :#5e3883 ;
+$link-color       : #5e3883 ;
+$linkcolorhover 	: lighten($linkcolor, 10);
 $linkcolorvisited : ligthen($linkcolor, 1);
-$linkcolorfocus 	: darken($linkcolor, 10);
+$linkcolorfocus 	: lighten($linkcolor, 10);
 
 /*
    Breakpoints
