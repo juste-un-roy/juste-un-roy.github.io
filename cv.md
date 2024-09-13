@@ -3,8 +3,6 @@ layout: resume
 menuorder: 2
 menutitle: CV
 ---
-## Justin Roy
-
 ## Éducation
 
 `2021 - 2023`
