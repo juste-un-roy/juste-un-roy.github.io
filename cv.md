@@ -78,8 +78,8 @@ __Programme BiblioTECH__
 ## Publications
 
 `2024`
-__Archives__
-- Comprendre les archives autochtones comme des communs de la connaissance : Évolutions des pratiques de gouvernance de l'informartion d'une bibliothèque numérique anicinabe(à paraître)
+__Revue Archives__
+- Comprendre les archives autochtones comme des communs de la connaissance : Évolutions des pratiques de gouvernance de l'informartion d'une bibliothèque numérique anicinabe (à paraître)
 
 ## Conférences
 
