@@ -18,45 +18,45 @@ $alt-font: $base-font;
    Colors
    ========================================================================== */
 
-$bodycolor      : ##000000;
+$bodycolor      : #fff;
 $body-color     : $bodycolor;
-$textcolor      : #fff;
+$textcolor      : #333332;
 $text-color     : $textcolor;
-$border-color   : #9866a8;
-$basecolor 		  : #fff ;
+$border-color   : #00755e;
+$basecolor 		  : #343434;
 $compcolor 		  : spin($basecolor, 180);
-$bordercolor    : #5e3883 ;
-$white          : #fff ;
-$black          : #000000;
-$accentcolor    : #000000 ;
+$bordercolor    : $basecolor;
+$white          : #fff;
+$black          : #111;
+$accentcolor    : $black;
 
 /* buttons */
-$primary			: #9866a8;
-$success			: #9866a8;
-$warning			: #9866a8 ;
-$danger				: #9866a8;
-$info				  : #9866a8;
+$primary			: #00755e;
+$success			: #5cb85c;
+$warning			: #dd8338;
+$danger				: #00755e;
+$info				  : #308cbc;
 
 /* brands */
-$facebook-color     : #fff ;
-$flickr-color       : #fff ;
-$foursquare-color   : #fff ;
-$google-plus-color  : #fff;
-$instagram-color    : #fff;
-$linkedin-color     : #fff ;
-$pinterest-color    : #fff ;
-$rss-color          : #fff ;
-$tumblr-color       : #fff ;
-$twitter-color      : #fff ;
-$vimeo-color        : #fff ;
-$youtube-color      : #fff ;
+$facebook-color     : #3b5998;
+$flickr-color       : #ff0084;
+$foursquare-color   : #0cbadf;
+$google-plus-color  : #dd4b39;
+$instagram-color    : #4e433c;
+$linkedin-color     : #4875b4;
+$pinterest-color    : #cb2027;
+$rss-color          : #fa9b39;
+$tumblr-color       : #2c4762;
+$twitter-color      : #55acee;
+$vimeo-color        : #1ab7ea;
+$youtube-color      : #ff3333;
 
 /* links */
-$linkcolor 		    :#5e3883 ;
-$link-color       : #5e3883 ;
-$linkcolorhover 	: lighten($linkcolor, 10);
-$linkcolorvisited : ligthen($linkcolor, 1);
-$linkcolorfocus 	: lighten($linkcolor, 10);
+$linkcolor 		    : #00755e ;
+$link-color       : $linkcolor;
+$linkcolorhover 	: darken($linkcolor, 10);
+$linkcolorvisited : $linkcolor;
+$linkcolorfocus 	: darken($linkcolor, 10);
 
 /*
    Breakpoints
