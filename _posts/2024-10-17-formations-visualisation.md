@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Quels sont les mots caractéristiques des partis politiques québécois?
+title: Visualisation de données électorales
 excerpt:
-modified: 18/10/2024, 13:25
+modified: 21/10/2024, 13:25
 tags: [sciences humaines numériques, Datawrapper, Flourish]
 comments: true
 category: blog
