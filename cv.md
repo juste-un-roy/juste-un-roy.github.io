@@ -29,7 +29,7 @@ __Chargé de projet__, Minwashin
 - Rédaction de demandes de subvention
 - Stage (2022) : Rédaction d’une politique de gestion pour la bibliothèque numérique [Nipakanatik](https://nipakanatik.org/) et d’un guide sur la gouvernance des données autochtones
 
-`2023-2024`
+`2024`
 __Travailleur autonome__, Service des bibliothèques de l'Université du Québec à Montréal
 
 - Création et animation de formations sur la visualisation de données ([Datawrapper](https://www.datawrapper.de/), [Flourish](https://flourish.studio/))
