@@ -27,16 +27,13 @@ __Chargé de projet__, Minwashin
 - Entrevues et enregistrements de récits oraux avec des aîné-es
 - Animation de consultations dans les communautés anicinabe
 - Rédaction de demandes de subvention
-- Stage (2022) :
-  - Rédaction d’une politique de gestion pour la bibliothèque numérique [Nipakanatik](https://nipakanatik.org/)
-  - Rédaction d’un guide sur la gouvernance des données autochtones
+- Stage (2022) : Rédaction d’une politique de gestion pour la bibliothèque numérique [Nipakanatik](https://nipakanatik.org/) et d’un guide sur la gouvernance des données autochtones
 
 `2023-2024`
 __Travailleur autonome__, Service des bibliothèques de l'Université du Québec à Montréal
 
 - Création et animation de formations sur la visualisation de données ([Datawrapper](https://www.datawrapper.de/), [Flourish](https://flourish.studio/))
-- Stage (2023) :
-  - Création de guides pour le site web [Recherche numérique](https://recherchenumerique.uqam.ca/) sur la visualisation de données ([VOSViewer](https://www.vosviewer.com/)) et la fouille de texte ([Orange Data Mining](https://orangedatamining.com/), [AntConc](https://www.laurenceanthony.net/software/antconc/))
+- Stage (2023) : Création de guides pour le site web [Recherche numérique](https://recherchenumerique.uqam.ca/) sur la visualisation de données ([VOSViewer](https://www.vosviewer.com/)) et la fouille de texte ([Orange Data Mining](https://orangedatamining.com/), [AntConc](https://www.laurenceanthony.net/software/antconc/))
 
 `2022-2023`
 __Bibliothécaire-étudiant__, École de technologie supérieure (ÉTS)
