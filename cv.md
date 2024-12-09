@@ -37,7 +37,7 @@ __Technicien de recherche__, Université de Montréal (UdeM)
 - Rédaction de rapports de recherche et de recommandations (voir un [rapport de recommandations de 2022)](https://documentation.lacsq.org/in/documentViewer.xhtml?id=1e180c36-2393-446f-bde9-9af08649fafc&locale=fr&file=/in/rest/annotationSVC/DownloadWatermarkedAttachment/attach_upload_94ec85f8-e51f-4d1c-b129-76e952240280#%5B%7B%22num%22%3A85%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C84%2C379%2C0%5D)
 
 `2024`
-__Travailleur autonome__, Service des bibliothèques de l'Université du Québec à Montréal
+__Travailleur autonome__, Service des bibliothèques de l'Université du Québec à Montréal (UQAM)
 
 - Création et animation de formations sur la visualisation de données ([Datawrapper](https://www.datawrapper.de/), [Flourish](https://flourish.studio/))
 - Stage (2023) : Création de guides pour le site web [Recherche numérique](https://recherchenumerique.uqam.ca/) sur la visualisation de données ([VOSViewer](https://www.vosviewer.com/)) et la fouille de texte ([Orange Data Mining](https://orangedatamining.com/), [AntConc](https://www.laurenceanthony.net/software/antconc/))
@@ -60,8 +60,7 @@ __Rassemblement annuel pour la transmission, l'expression et la préservation de
 
 `2023`
 __Programme BiblioTECH__
-
-- Présentation du programme à l’École de bibliothéconomie et des sciences de l’information
+- Présentation du programme à l’École de bibliothéconomie et des sciences de l’information de l'UdeM
 - Traduction de matériel pédagogique en français
 
 ## Conférences
