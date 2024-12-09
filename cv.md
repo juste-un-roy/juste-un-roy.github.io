@@ -29,12 +29,12 @@ __Chargé de projet__, Minwashin
 - Rédaction de demandes de subvention
 - Stage (2022) : Rédaction d’une politique de gestion pour la bibliothèque numérique [Nipakanatik](https://nipakanatik.org/) et d’un guide sur la gouvernance des données autochtones
 
-`2022 ; 2024-présent`
+`2024-présent`
 __Technicien de recherche__, Université de Montréal (UdeM)
 - Recherche documentaire sur les droits des aîné-es autochtones
 - Rédaction d'une stratégie de recherche documentaire
 - Gestion d'une base de données bibliographiques
-- Recherche sur la vitalité du français en enseignement supérieur (2022) : Recherche documentaire et rédaction d'une [méthode de recherche](https://documentation.lacsq.org/in/documentViewer.xhtml?id=1e180c36-2393-446f-bde9-9af08649fafc&locale=fr&file=/in/rest/annotationSVC/DownloadWatermarkedAttachment/attach_upload_94ec85f8-e51f-4d1c-b129-76e952240280#%5B%7B%22num%22%3A31%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C68%2C234%2C0%5D) et d'un [rapport de recommandations](https://documentation.lacsq.org/in/documentViewer.xhtml?id=1e180c36-2393-446f-bde9-9af08649fafc&locale=fr&file=/in/rest/annotationSVC/DownloadWatermarkedAttachment/attach_upload_94ec85f8-e51f-4d1c-b129-76e952240280#%5B%7B%22num%22%3A85%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C84%2C379%2C0%5D)
+- Précédent contrat (2022) : Recherche documentaire sur la vitalité du français en enseignement supérieur et rédaction d'une [méthode de recherche](https://documentation.lacsq.org/in/documentViewer.xhtml?id=1e180c36-2393-446f-bde9-9af08649fafc&locale=fr&file=/in/rest/annotationSVC/DownloadWatermarkedAttachment/attach_upload_94ec85f8-e51f-4d1c-b129-76e952240280#%5B%7B%22num%22%3A31%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C68%2C234%2C0%5D) et d'un [rapport de recommandations](https://documentation.lacsq.org/in/documentViewer.xhtml?id=1e180c36-2393-446f-bde9-9af08649fafc&locale=fr&file=/in/rest/annotationSVC/DownloadWatermarkedAttachment/attach_upload_94ec85f8-e51f-4d1c-b129-76e952240280#%5B%7B%22num%22%3A85%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C84%2C379%2C0%5D)
 
 `2024`
 __Travailleur autonome__, Service des bibliothèques de l'Université du Québec à Montréal (UQAM)
