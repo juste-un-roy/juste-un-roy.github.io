@@ -29,6 +29,13 @@ __Chargé de projet__, Minwashin
 - Rédaction de demandes de subvention
 - Stage (2022) : Rédaction d’une politique de gestion pour la bibliothèque numérique [Nipakanatik](https://nipakanatik.org/) et d’un guide sur la gouvernance des données autochtones
 
+`2022 ; 2024-présent`
+__Technicien de recherche__, Université de Montréal (UdeM)
+- Recherche documentaire
+- Rédaction de stratégies de recherche documentaire
+- Gestion de bases de données de références bibliographiques
+- Rédaction de rapports de recherche et de recommandations (voir un [rapport de recommandations de 2022)](https://documentation.lacsq.org/in/documentViewer.xhtml?id=1e180c36-2393-446f-bde9-9af08649fafc&locale=fr&file=/in/rest/annotationSVC/DownloadWatermarkedAttachment/attach_upload_94ec85f8-e51f-4d1c-b129-76e952240280#%5B%7B%22num%22%3A85%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C84%2C379%2C0%5D)
+
 `2024`
 __Travailleur autonome__, Service des bibliothèques de l'Université du Québec à Montréal
 
@@ -40,12 +47,6 @@ __Bibliothécaire-étudiant__, École de technologie supérieure (ÉTS)
 - Analyses bibliométriques
 - Création de guides thématiques avec Libguide
 - Référence avec LibAnswer et LibInsight
-
-`2022`
-__Agent de recherche__, Université de Montréal (UdeM)
-- Recherche documentaire
-- Rédaction d’une [stratégie de recherche](https://documentation.lacsq.org/in/documentViewer.xhtml?id=1e180c36-2393-446f-bde9-9af08649fafc&locale=fr&file=/in/rest/annotationSVC/DownloadWatermarkedAttachment/attach_upload_94ec85f8-e51f-4d1c-b129-76e952240280#%5B%7B%22num%22%3A31%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C68%2C234%2C0%5D) et d’un [rapport de recommandations](https://documentation.lacsq.org/in/documentViewer.xhtml?id=1e180c36-2393-446f-bde9-9af08649fafc&locale=fr&file=/in/rest/annotationSVC/DownloadWatermarkedAttachment/attach_upload_94ec85f8-e51f-4d1c-b129-76e952240280#%5B%7B%22num%22%3A85%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C84%2C379%2C0%5D)
-- Création et gestion d’une bibliothèque numérique de références
 
 ## Implications
 
