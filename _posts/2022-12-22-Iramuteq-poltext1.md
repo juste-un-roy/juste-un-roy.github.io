@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Quels sont les mots caractéristiques des partis politiques québécois?
-excerpt: "Les méthodes de la fouille de textes peuvent nous informer sur les stratégies de communication des partis politiques québécois."
+excerpt: "Les méthodes de fouille de texte peuvent nous informer sur les stratégies de communication des partis politiques lors des élections québécoises de 2022."
 modified: 22/01/2023, 11:33
 tags: [Partis politiques (Québec)]
 comments: true
