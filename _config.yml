@@ -1,17 +1,19 @@
 # Site wide configuration
 
-title: Justin Roy
+title: Juste un blog
 locale: fr_CA
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Justin Roy
+  name: Juste
   avatar:
-  bio: Chargé de projet à Minwashin
-  email: roy.justin@pm.me
+  bio: Blogueur, commentateur politique.
+  email: 
   # Do not include the @ symbol in your Twitter username
   twitter: #username
+  bluesky : #
+  twitch: [Juste__tv](https://www.twitch.tv/juste__tv)
   linkedin: #username
   github: #username
   orcid: # ID Number (ex. 0000-0000-0000-0000)
